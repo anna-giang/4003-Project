@@ -1,0 +1,16 @@
+{% extends "base.html" %} {% block title %}About{% endblock %}
+
+{% block content%}
+<br />
+<form method="POST">
+    <h3 align="center">Upload your job advert below</h3>
+    <br />
+    <div class="form-outline">
+        <textarea class="form-control" id="job-ad" placeholder="Paste your job ad here" rows="4"></textarea>
+        <label class="form-label" for="job-ad"></label>
+      </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+{% endblock %}
