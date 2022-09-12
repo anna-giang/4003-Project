@@ -23,21 +23,50 @@ def loadTextFromFile(directory, filenames, docs):
 diversityInclusion = "diversityInclusion"
 diversityInclusionFilenames = []
 diversityInclusionDocs = []
+diversityInclusionTestFilenames = []
+diversityInclusionTestDocs = []
 loadTextFromFile(
-    diversityInclusion, diversityInclusionFilenames, diversityInclusionDocs
+    diversityInclusion + "\\" + "training",
+    diversityInclusionFilenames,
+    diversityInclusionDocs,
+)
+loadTextFromFile(
+    diversityInclusion + "\\" + "test",
+    diversityInclusionTestFilenames,
+    diversityInclusionTestDocs,
 )
 
 
 encourageGenders = "encourageGenders"
 encourageGendersFilenames = []
 encourageGendersDocs = []
-loadTextFromFile(encourageGenders, encourageGendersFilenames, encourageGendersDocs)
+encourageGendersTestFilenames = []
+encourageGendersTestDocs = []
+loadTextFromFile(
+    encourageGenders + "\\" + "training",
+    encourageGendersFilenames,
+    encourageGendersDocs,
+)
+loadTextFromFile(
+    encourageGenders + "\\" + "test",
+    encourageGendersTestFilenames,
+    encourageGendersTestDocs,
+)
 
 mentionOrgFeatures = "mentionOrgFeatures"
 mentionOrgFeaturesFilenames = []
 mentionOrgFeaturesDocs = []
+mentionOrgFeaturesTestFilenames = []
+mentionOrgFeaturesTestDocs = []
 loadTextFromFile(
-    mentionOrgFeatures, mentionOrgFeaturesFilenames, mentionOrgFeaturesDocs
+    mentionOrgFeatures + "\\" + "training",
+    mentionOrgFeaturesFilenames,
+    mentionOrgFeaturesDocs,
+)
+loadTextFromFile(
+    mentionOrgFeatures + "\\" + "test",
+    mentionOrgFeaturesTestFilenames,
+    mentionOrgFeaturesTestDocs,
 )
 
 # -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -49,14 +78,23 @@ loadTextFromFile(
 diversityInclusionData = pd.DataFrame()
 diversityInclusionData["id"] = diversityInclusionFilenames
 diversityInclusionData["text"] = diversityInclusionDocs
+diversityInclusionTestData = pd.DataFrame()
+diversityInclusionTestData["id"] = diversityInclusionTestFilenames
+diversityInclusionTestData["text"] = diversityInclusionTestDocs
 
 encourageGendersData = pd.DataFrame()
 encourageGendersData["id"] = encourageGendersFilenames
 encourageGendersData["text"] = encourageGendersDocs
+encourageGendersTestData = pd.DataFrame()
+encourageGendersTestData["id"] = encourageGendersTestFilenames
+encourageGendersTestData["text"] = encourageGendersTestDocs
 
 mentionOrgFeaturesData = pd.DataFrame()
 mentionOrgFeaturesData["id"] = mentionOrgFeaturesFilenames
 mentionOrgFeaturesData["text"] = mentionOrgFeaturesDocs
+mentionOrgFeaturesTestData = pd.DataFrame()
+mentionOrgFeaturesTestData["id"] = mentionOrgFeaturesTestFilenames
+mentionOrgFeaturesTestData["text"] = mentionOrgFeaturesTestDocs
 
 # -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -76,12 +114,21 @@ def clean_text(text):
 diversityInclusionData["text"] = diversityInclusionData["text"].apply(
     lambda x: clean_text(x)
 )
+diversityInclusionTestData["text"] = diversityInclusionTestData["text"].apply(
+    lambda x: clean_text(x)
+)
 
-encourageGendersData["text"] = diversityInclusionData["text"].apply(
+encourageGendersTestData["text"] = encourageGendersData["text"].apply(
+    lambda x: clean_text(x)
+)
+encourageGendersTestData["text"] = encourageGendersTestData["text"].apply(
     lambda x: clean_text(x)
 )
 
 mentionOrgFeaturesData["text"] = mentionOrgFeaturesData["text"].apply(
+    lambda x: clean_text(x)
+)
+mentionOrgFeaturesTestData["text"] = mentionOrgFeaturesTestData["text"].apply(
     lambda x: clean_text(x)
 )
 
@@ -104,12 +151,21 @@ def remove_stopwords(text):
 diversityInclusionData["text"] = diversityInclusionData["text"].apply(
     lambda x: remove_stopwords(x)
 )
+diversityInclusionTestData["text"] = diversityInclusionTestData["text"].apply(
+    lambda x: remove_stopwords(x)
+)
 
 encourageGendersData["text"] = encourageGendersData["text"].apply(
     lambda x: remove_stopwords(x)
 )
+encourageGendersTestData["text"] = encourageGendersTestData["text"].apply(
+    lambda x: remove_stopwords(x)
+)
 
 mentionOrgFeaturesData["text"] = mentionOrgFeaturesData["text"].apply(
+    lambda x: remove_stopwords(x)
+)
+mentionOrgFeaturesTestData["text"] = mentionOrgFeaturesTestData["text"].apply(
     lambda x: remove_stopwords(x)
 )
 
@@ -121,14 +177,34 @@ diversityInclusionLabels = pd.read_csv(
     CURRENT_PATH + "\\labels\\diversityInclusion.csv"
 )
 diversityInclusionData = pd.merge(diversityInclusionData, diversityInclusionLabels)
+diversityInclusionTestLabels = pd.read_csv(
+    CURRENT_PATH + "\\labels\\diversityInclusionTest.csv"
+)
+diversityInclusionTestData = pd.merge(
+    diversityInclusionTestData, diversityInclusionTestLabels
+)
+
 
 encourageGendersLabels = pd.read_csv(CURRENT_PATH + "\\labels\\encourageGenders.csv")
 encourageGendersData = pd.merge(encourageGendersData, encourageGendersLabels)
+encourageGendersTestLabels = pd.read_csv(
+    CURRENT_PATH + "\\labels\\encourageGendersTest.csv"
+)
+encourageGendersTestData = pd.merge(
+    encourageGendersTestData, encourageGendersTestLabels
+)
+
 
 mentionOrgFeaturesLabels = pd.read_csv(
     CURRENT_PATH + "\\labels\\mentionOrgFeatures.csv"
 )
 mentionOrgFeaturesData = pd.merge(mentionOrgFeaturesData, mentionOrgFeaturesLabels)
+mentionOrgFeaturesTestLabels = pd.read_csv(
+    CURRENT_PATH + "\\labels\\mentionOrgFeaturesTest.csv"
+)
+mentionOrgFeaturesTestData = pd.merge(
+    mentionOrgFeaturesTestData, mentionOrgFeaturesTestLabels
+)
 
 
 # -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -140,23 +216,35 @@ diversityInclusionText = diversityInclusionBag.fit_transform(
 )
 diversityInclusionLabels = np.array(diversityInclusionData[diversityInclusion])
 diversityInclusionTextFeatures = diversityInclusionText.toarray()
-deXTrain, deXtest, deYtrain, deYtest = train_test_split(
-    diversityInclusionTextFeatures,
-    diversityInclusionLabels,
-    test_size=0.2,
-    random_state=200,
+
+
+diversityInclusionTestBag = CountVectorizer(
+    ngram_range=(2, 2),
+    vocabulary=diversityInclusionBag.vocabulary_,  # Create a CountVectorizer ONLY considering the vocabulary of the training data.
 )
+diversityInclusionTestText = diversityInclusionTestBag.fit_transform(
+    diversityInclusionTestData["text"]
+)
+diversityInclusionTestLabels = np.array(diversityInclusionTestData[diversityInclusion])
+diversityInclusionTestTextFeatures = diversityInclusionTestText.toarray()
+
+""""""
 
 encourageGendersBag = CountVectorizer(ngram_range=(2, 2))
 encourageGendersText = encourageGendersBag.fit_transform(encourageGendersData["text"])
 encourageGendersLabels = np.array(encourageGendersData[encourageGenders])
 encourageGendersTextFeatures = encourageGendersText.toarray()
-egXtrain, egXtest, egYtrain, egYtest = train_test_split(
-    encourageGendersTextFeatures,
-    encourageGendersLabels,
-    test_size=0.2,
-    random_state=200,
+
+encourageGendersTestBag = CountVectorizer(
+    ngram_range=(2, 2), vocabulary=encourageGendersBag.vocabulary_
 )
+encourageGendersTestText = encourageGendersTestBag.fit_transform(
+    encourageGendersTestData["text"]
+)
+encourageGendersTestLabels = np.array(encourageGendersTestData[encourageGenders])
+encourageGendersTestTextFeatures = encourageGendersTestText.toarray()
+
+""""""
 
 mentionOrgFeaturesBag = CountVectorizer(ngram_range=(2, 2))
 mentionOrgFeaturesText = mentionOrgFeaturesBag.fit_transform(
@@ -164,17 +252,23 @@ mentionOrgFeaturesText = mentionOrgFeaturesBag.fit_transform(
 )
 mentionOrgFeaturesLabels = np.array(mentionOrgFeaturesData[mentionOrgFeatures])
 mentionOrgFeaturesTextFeatures = mentionOrgFeaturesText.toarray()
-mofXtrain, mofXtest, mofYtrain, mofYtest = train_test_split(
-    mentionOrgFeaturesTextFeatures,
-    mentionOrgFeaturesLabels,
-    test_size=0.2,
-    random_state=200,
+
+mentionOrgFeaturesTestBag = CountVectorizer(
+    ngram_range=(2, 2), vocabulary=mentionOrgFeaturesBag.vocabulary_
 )
+mentionOrgFeaturesTestText = mentionOrgFeaturesTestBag.fit_transform(
+    mentionOrgFeaturesTestData["text"]
+)
+mentionOrgFeaturesTestLabels = np.array(mentionOrgFeaturesTestData[mentionOrgFeatures])
+mentionOrgFeaturesTestTextFeatures = mentionOrgFeaturesTestText.toarray()
 
+""""""
 
-trainingData = [[deXTrain, deYtrain], [egXtrain, egYtrain], [mofXtrain, mofYtrain]]
-
-# -----------------------------------------------------------------------------------------------------------------------------------------------------
+trainingData = [
+    [diversityInclusionTextFeatures, diversityInclusionLabels],
+    [encourageGendersTextFeatures, encourageGendersLabels],
+    [mentionOrgFeaturesTextFeatures, mentionOrgFeaturesLabels],
+]
 
 # Creating ML model (random forest classifier)
 models = []
@@ -184,18 +278,32 @@ for i in range(len(trainingData)):
     models.append(rf.fit(trainingData[i][0], trainingData[i][1]))
 
 predictions = []
-predictions.append(models[0].predict(deXtest))  # D&E
-predictions.append(models[1].predict(egXtest))  # Encourage both genders
-predictions.append(models[2].predict(mofXtest))  # Mention of work features
+predictions.append(models[0].predict(diversityInclusionTestTextFeatures))
+predictions.append(
+    models[1].predict(encourageGendersTestTextFeatures)
+)  # Encourage both genders
+predictions.append(
+    models[2].predict(mentionOrgFeaturesTestTextFeatures)
+)  # Mention of work features
 
 # Evaluating precisions
 print("\t Classification report for", diversityInclusion, "\n")
-print(metrics.classification_report(deYtest, predictions[0], digits=5))
+print(
+    metrics.classification_report(
+        diversityInclusionTestLabels, predictions[0], digits=5
+    )
+)
 print("-------------------------------------------------------------------------")
 
 print("\t Classification report for", encourageGenders, "\n")
-print(metrics.classification_report(egYtest, predictions[1], digits=5))
+print(
+    metrics.classification_report(encourageGendersTestLabels, predictions[1], digits=5)
+)
 print("-------------------------------------------------------------------------")
 
 print("\t Classification report for", mentionOrgFeatures, "\n")
-print(metrics.classification_report(mofYtest, predictions[2], digits=5))
+print(
+    metrics.classification_report(
+        mentionOrgFeaturesTestLabels, predictions[2], digits=5
+    )
+)
