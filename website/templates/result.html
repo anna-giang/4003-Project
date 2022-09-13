@@ -1,54 +1,32 @@
-{% extends "base.html" %} {% block title %}About{% endblock %}
-
-{% block content%}
+{% extends "base.html" %} {% block title %}About{% endblock %} {% block
+content%}
 <div class="container">
-    <div class="row">
-      <div class="col">
-        <br />
-        <h5 align="center">Good job!</h5>  <!-- If x amount of recommendations met = Good job otherwise Nice try for example -->
-        <br />
-        <div class="progress">
-            <div class="progress-bar" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-          </div>
-          <br />
+  <div class="row">
+    <div class="col">
+      <br />
+      <h5 align="center">Good job!</h5>
+      <!-- If x amount of recommendations met = Good job otherwise Nice try for example -->
+      <br />
+      <div class="progress">
+        <div
+          class="progress-bar"
+          role="progressbar"
+          style="width: 25%"
+          aria-valuenow="25"
+          aria-valuemin="0"
+          aria-valuemax="100"
+        ></div>
       </div>
-    </div>
-    <div class="row">
-      <div class="col">
-       SCORE
-      </div>
-      <div class="col">
-
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-            <label class="form-check-label" for="flexCheckDefault">
-              Default checkbox
-            </label>
-          </div>
-          <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
-            <label class="form-check-label" for="flexCheckChecked">
-              Checked checkbox
-            </label>
-          </div>
-
-      </div>
-      <div class="col">
-        
-        <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-            <label class="form-check-label" for="flexCheckDefault">
-              Default checkbox
-            </label>
-          </div>
-          <div class="form-check">
-            <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
-            <label class="form-check-label" for="flexCheckChecked">
-              Checked checkbox
-            </label>
-          </div>
-
-      </div>
+      <br />
     </div>
   </div>
+  <div class="row">
+    <div class="col">SCORE</div>
+    <div class="col">check</div>
+    <div class="col">
+      <i class="fa-solid fa-square-check"></i>
+      <!--Icon not working-->
+    </div>
+  </div>
+</div>
 {% endblock %}
