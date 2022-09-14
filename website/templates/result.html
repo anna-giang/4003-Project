@@ -1,0 +1,80 @@
+{% extends "base.html" %} {% block title %}About{% endblock %} {% block
+content%}
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <br />
+      <h1 class="display-3 p" align="center">Good job!</h1>
+      <!-- If x amount of recommendations met = Good job otherwise Nice try for example -->
+      <p align="center" class="lead">
+        You satisfied 85% of the gender inclusivity recommendations!
+      </p>
+      <br />
+      <div class="progress">
+        <div
+          class="progress-bar"
+          role="progressbar"
+          style="width: 85%"
+          aria-valuenow="25"
+          aria-valuemin="0"
+          aria-valuemax="100"
+        ></div>
+      </div>
+      <br />
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <div>
+        <p>
+          <i class="far fa-check-circle fa-lg pr-3"></i>
+          Mention of diversity and inclusion
+        </p>
+      </div>
+      <div>
+        <p>
+          <i class="far fa-circle fa-lg pr-3"></i> No long list of requirements
+        </p>
+      </div>
+      <div>
+        <p><i class="far fa-circle fa-lg pr-3"></i>Specifiy work hours</p>
+      </div>
+      <div>
+        <p><i class="far fa-circle fa-lg pr-3"></i>Specify type of roster</p>
+      </div>
+    </div>
+    <div class="col">
+      <div>
+        <p>
+          <i class="far fa-circle fa-lg pr-3"></i>Encourage male and female
+          applicants
+        </p>
+      </div>
+      <div>
+        <p>
+          <i class="far fa-circle fa-lg pr-3"></i>
+          No excessive use of technical language
+        </p>
+      </div>
+      <div>
+        <p>
+          <i class="far fa-check-circle fa-lg pr-3"></i>
+          Gender neutral words used
+        </p>
+      </div>
+      <div>
+        <p>
+          <i class="far fa-check-circle fa-lg pr-3"></i>
+          Avoided masculine/feminine attributes
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="mt-5" align="center">
+    <a href="/tool" class="btn btn-primary"
+      >Try again <i class="fas fa-undo-alt"></i
+    ></a>
+  </div>
+</div>
+
+{% endblock %}
