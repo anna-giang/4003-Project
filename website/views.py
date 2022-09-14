@@ -14,7 +14,7 @@ def tool():
     # when user hits submit - post request to result page
     if request.method == 'POST':
         job_ad = request.form.get('job-ad')
-        # --
+        # -- do we have any requirements for text like certain length?
         # do some stuff with the job ad
         # ---
         return (redirect(url_for('views.result')))
