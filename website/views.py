@@ -17,7 +17,12 @@ def tool():
         # -- do we have any requirements for text like certain length?
         # do some stuff with the job ad
         # ---
-        return (redirect(url_for('views.result')))
+        # the 1 or 0 is true/false if recommendation met
+        result = {'diversity': 1, 'list': 0, 'workHr': 1, 'roster': 0,
+                  'encourage': 0, 'tech': 1, 'lang': 0, 'attributes': 0}
+        # calculate how many recommendations satisfied %
+        perc = 30
+        return render_template("result.html", result=result, perc=perc)
     return render_template("tool.html")
 
 
