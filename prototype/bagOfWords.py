@@ -6,15 +6,17 @@ from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.ensemble import RandomForestClassifier
 from sklearn import metrics
+import nltk
+nltk.download('stopwords')
 
 CURRENT_PATH = os.getcwd()
 
 # Load text from documents
 def loadTextFromFile(directory, filenames, docs):
-    trainingDirectory = CURRENT_PATH + "\\" + directory
+    trainingDirectory = CURRENT_PATH + "/" + directory
     for filename in os.listdir(trainingDirectory):
         filenames.append(int(filename[:-4]))  # Removes the .txt from the filename
-        with open(trainingDirectory + "\\" + filename, "r") as file:
+        with open(trainingDirectory + "/" + filename, "r") as file:
             text = file.read()
         docs.append(text)
 
@@ -25,12 +27,12 @@ diversityInclusionDocs = []
 diversityInclusionTestFilenames = []
 diversityInclusionTestDocs = []
 loadTextFromFile(
-    diversityInclusion + "\\" + "training",
+    diversityInclusion + "/" + "training",
     diversityInclusionFilenames,
     diversityInclusionDocs,
 )
 loadTextFromFile(
-    diversityInclusion + "\\" + "test",
+    diversityInclusion + "/" + "test",
     diversityInclusionTestFilenames,
     diversityInclusionTestDocs,
 )
@@ -42,12 +44,12 @@ encourageGendersDocs = []
 encourageGendersTestFilenames = []
 encourageGendersTestDocs = []
 loadTextFromFile(
-    encourageGenders + "\\" + "training",
+    encourageGenders + "/" + "training",
     encourageGendersFilenames,
     encourageGendersDocs,
 )
 loadTextFromFile(
-    encourageGenders + "\\" + "test",
+    encourageGenders + "/" + "test",
     encourageGendersTestFilenames,
     encourageGendersTestDocs,
 )
@@ -58,12 +60,12 @@ mentionOrgFeaturesDocs = []
 mentionOrgFeaturesTestFilenames = []
 mentionOrgFeaturesTestDocs = []
 loadTextFromFile(
-    mentionOrgFeatures + "\\" + "training",
+    mentionOrgFeatures + "/" + "training",
     mentionOrgFeaturesFilenames,
     mentionOrgFeaturesDocs,
 )
 loadTextFromFile(
-    mentionOrgFeatures + "\\" + "test",
+    mentionOrgFeatures + "/" + "test",
     mentionOrgFeaturesTestFilenames,
     mentionOrgFeaturesTestDocs,
 )
@@ -173,21 +175,21 @@ mentionOrgFeaturesTestData["text"] = mentionOrgFeaturesTestData["text"].apply(
 # Reading pre-labelled target classes
 
 diversityInclusionLabels = pd.read_csv(
-    CURRENT_PATH + "\\labels\\diversityInclusion.csv"
+    CURRENT_PATH + "/labels/diversityInclusion.csv"
 )
 diversityInclusionData = pd.merge(diversityInclusionData, diversityInclusionLabels)
 diversityInclusionTestLabels = pd.read_csv(
-    CURRENT_PATH + "\\labels\\diversityInclusionTest.csv"
+    CURRENT_PATH + "/labels/diversityInclusionTest.csv"
 )
 diversityInclusionTestData = pd.merge(
     diversityInclusionTestData, diversityInclusionTestLabels
 )
 
 
-encourageGendersLabels = pd.read_csv(CURRENT_PATH + "\\labels\\encourageGenders.csv")
+encourageGendersLabels = pd.read_csv(CURRENT_PATH + "/labels/encourageGenders.csv")
 encourageGendersData = pd.merge(encourageGendersData, encourageGendersLabels)
 encourageGendersTestLabels = pd.read_csv(
-    CURRENT_PATH + "\\labels\\encourageGendersTest.csv"
+    CURRENT_PATH + "/labels/encourageGendersTest.csv"
 )
 encourageGendersTestData = pd.merge(
     encourageGendersTestData, encourageGendersTestLabels
@@ -195,11 +197,11 @@ encourageGendersTestData = pd.merge(
 
 
 mentionOrgFeaturesLabels = pd.read_csv(
-    CURRENT_PATH + "\\labels\\mentionOrgFeatures.csv"
+    CURRENT_PATH + "/labels/mentionOrgFeatures.csv"
 )
 mentionOrgFeaturesData = pd.merge(mentionOrgFeaturesData, mentionOrgFeaturesLabels)
 mentionOrgFeaturesTestLabels = pd.read_csv(
-    CURRENT_PATH + "\\labels\\mentionOrgFeaturesTest.csv"
+    CURRENT_PATH + "/labels/mentionOrgFeaturesTest.csv"
 )
 mentionOrgFeaturesTestData = pd.merge(
     mentionOrgFeaturesTestData, mentionOrgFeaturesTestLabels
