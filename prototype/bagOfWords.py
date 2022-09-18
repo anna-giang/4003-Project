@@ -5,7 +5,6 @@ import os
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
 from sklearn import metrics
 
 CURRENT_PATH = os.getcwd()
