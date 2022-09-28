@@ -1,0 +1,61 @@
+11 Jun 2020
+Sydney, CBD, Inner West & Eastern Suburbs
+Full Time
+Information & Communication Technology, Business/Systems Analysts
+
+Responsibilities include:
+Responsible for defining improvements to business processes, gathering information and analysing the client organization’s business intentions,
+services, processes and information needs to identify changes that lead to business improvements.
+Analysing business processes and advising customers on business process automation and optimization.
+Identifying and communicating with clients to formulate strategies and produce a requirements specification to create system and software
+solutions for businesses.
+
+Analysing existing systems, application design and functions to ensure strategic ICT objectives are met by adopting contemporary analysis best-
+practice methodologies and processes including performing gap analysis within a scaled agile framework.
+
+Interpreting specifications, technical designs and flow charts for applications, researching, consulting, analysing and evaluating system needs
+Preparing technical specifications from a business functional mode, testing and writing technical documentation, end user documentation and
+operational procedures
+Evaluating system needs with clients and users to formulate and document business requirements.
+Assisting company to develop functional standards for other system users.
+Provide designs, based on pre-defined solution architecture, an integrated high-level solution that fit customer’s business & operational needs.
+Determining any inefficient business practices and system errors, such as duplicate orders, and double payments, etc, and providing efficient
+optimal business practice, solutions, and system functionality and behaviours
+Identifying, investigating, and analysing business processes, procedures and work practices to identify and evaluate inefficiencies, thereby
+recommending optimal business practices to improve business functionality.
+Manages the overall IT program scope, maintain its continuous alignment with strategic business objectives and works directly with the customer
+to clearly articulate and document the business requirements.
+Taking responsibility for deploying functional solutions, such as creating, adopting and implementing system test plans, which ensure acceptable
+quality and integrity of the workplace systems.
+Creating user and training documentation and conducting formal training classes.
+Skills and experience
+Analysing and documenting business and technical requirements that best reflect customer needs; Translating the requirements into prioritize
+epics/features, supporting the release and iteration planning.
+Developing functional specifications for use by software engineers and developer programmers to create solutions then creating user and training
+documentation and conducting formal training classes to train the employees on the new procedures.
+Using data and process modelling techniques to create clear system specifications for the design and development of system software.
+Demonstrating experience as an ICT Business Analyst within an agile environment understanding the business and IT requirements of the client.
+Acting as a central reference and information source, providing guidance and assistance in the system project decision making process by
+continuous communications with the client and passing on the information and requirements to the system developers.
+Establish collaborative and influential relationships with stakeholders, customers and colleagues, to ensure easy and effective achievement of
+team / project / business goals.
+Accountability and responsibility for scope, time, cost, quality, changes and dependencies in the project.
+Performs demonstrations of solutions to users. Effectively participate in and lead formal and informal reviews with stakeholders, knowledge, and
+experience in providing technical perspective and support
+Accountable and responsible for development teams during the iterations (provide business clarifications, adjustment to risks, change in scope,
+reprioritize and approve “done” stories and features during demos).
+Responsible for communicating the solution to customers’ business and/ or IT personnel, explaining the details of new solutions and their impact
+on business processes, and ensuring that the customer understands the solution.
+
+Follows up on solution design issues in his/her domain until solution is signed off and supports the resolution of configuration/ implementation-
+related issues as and when they arise.
+
+Responsible for solution-related documents and functional specifications; May also configure the solution, and create, execute and maintain test
+plans when applicable.
+The ideal candidate must possess
+Relevant bachelor’s degree
+Minimum 3 years’ experience in business analysis
+A proven understanding of business concepts and processes
+Strong analytical skills in both operational and IS environment
+Excellent verbal and written communication
+The position may involve domestic travel.
