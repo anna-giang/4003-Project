@@ -1,0 +1,47 @@
+Test Engineer
+
+Netstrata is a privately owned, award winning specialist Strata, Building
+Management, Committee and Community Title management
+organisation. We not only develop our own Strata Management software
+platform for our internal use, but we also provide Strata Management
+software solutions for others in our industry.
+Come and join our established software development team that
+uses best practice tools, software and delivery methodologies. This
+extremely exciting and diverse opportunity will see you lead the quality
+and testing initiatives across both the legacy Strata Management
+platform and its brand new ASP.Net Core replacement. This is also a
+role that will suit somebody that aspires to move into the space of BA
+and take on these responsibilities, being mentored by a Product and
+Delivery Lead who is passionate about developing their team.
+Your key responsibilities include:
+Contribute to creation and refinement of user stories.
+Design, create, execute, analyse manual and automated tests .
+Initiate and execute regression testing where required.
+Able to create and define a test approach for any given context
+Applying industry best practice test methods
+Raise issues associated with feature development back to
+development team and also assisting with post implementation issue
+management.
+Partner with the development team to plan and manage quality
+control throughout all delivery phases, to ensure all project
+milestones and quality standards are met.
+Work collaboratively with stakeholders to develop an understanding
+of the business.
+Develop and maintain essential working relationships with key
+internal stakeholders.
+As needed gather, analyse and document business requirements.
+Support training and implementation activities to ensure the
+successful delivery.
+The skills and experience we require:
+At least 5 years’ experience with both manual and automated testing
+Ideally to have 1 years’ exposure to Business Analyst
+responsibilities and/or is keen to take on BA responsibilities in the
+future
+Experience working in an Agile and CI/CD environment
+Experience with tools including Jira, Confluence, Bitbucket, Bamboo
+Excellent verbal and written communication skills
+A problem solver who is solutions focused
+Previous experience with accounting systems/background highly
+desirable
+Specialist certifications in QA/Testing desirable
+If this sounds like you click "Apply Now"

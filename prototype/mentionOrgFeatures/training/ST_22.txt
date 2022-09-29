@@ -1,0 +1,35 @@
+Full Time
+Information & Communication Technology, Testing & Quality Assurance
+
+About the Role:
+Our client currently have a job opening for a Senior Tester with a major focus on the ability to create a test strategy and then execute tests against it. As
+a self-starter and experienced Tester, you will play an integral part in the testing of software, continuous testing on changes and testing all customer
+bases. This is a Senior role but very much hands-on, essentially EVRYTHING needs to be tested.
+This Full-Time position is based just outside Perth CBD, where you will report to the Senior Architect who will oversee development. With strong growth
+projected, there is no shortage of work and you will always have your hands full, but believe us when we say, you'll love it!
+Key Criteria:
+Develop and produce System Integration Test Plans
+Develop and execute SIT Test Scripts
+Raise, Triage and track defects raised during the engagement through to closure
+Develop and produce the SIT Test Completion Report
+Experience in creating and executing automation scripts
+Strong experience in Agile and DevOps principles
+Experience and knowledge of Test Management Tool
+Big BONUS - Experience with Android Testing and Automation Testing
+What's on Offer:
+As a Senior Tester you will be responsible for essentially ALL Testing, therefore your method towards Testing must be immaculate. You will be
+proactive, have a very solid plan, and test strategy approach. This is an amazing opportunity for someone who loves to get their hands dirty, and would
+potentially like to build a team around them through the realisation of the demand of the role and duties. This will give the right candidate the
+opportunity to coach and manage a team of Testers.
+This is not your typical start-up organisation; our client, established for four years now, have strong backing from their Directors and Board Members.
+Their office is a very open and honest working environment where no two days are the same; you get to work on exciting technologies and continue
+your technical development and to top it off you get to own your work!
+Our Client:
+Our Client is driven by delivering never seen before messaging services providing deeper integration into consumer's day-to-day consumption and by
+delivering unique market opportunities while providing value and control to users.
+About Us
+Titan Recruitment has been delivering complete, innovative and effective recruitment solutions across Australia for over two decades and is recognised
+as a leading Engineering and Technology recruitment and contracting specialist. Our service delivery is underpinned by traditional values and an
+innovative approach to help clients, contractors and candidates achieve their goals.
+Find the latest engineering jobs and technology jobs at www.titanrecruitment.com.au
+Titan is an advocate for Equal Employment Opportunity, and we encourage applications from all interested applicants.

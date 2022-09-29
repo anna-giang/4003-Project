@@ -1,0 +1,44 @@
+Performance Tester -
+JMeter/Azure/Devops
+6 month contract
+Immediate Start
+Exceptional Fintech Business
+My client, a Fintech business based in Melbourne, have a
+requirement for a Performance Tester to work with their technical
+teams on their cloud-based application. Working with the software
+development team to put a framework in place and validate,
+document and test cloud applications, you will also apply expertise
+in identifying and preventing defects in products and services on a
+continuous basis. You will also be working with software engineers,
+system engineers and DevOps engineers in the correction of any
+defects found and using automation tools and techniques to
+achieve objectives.
+Essential Experience:
+Strong experience with test automation using JMeter to test
+cloud applications
+JMeter testing in Azure pipelines
+JMeter load testing with Azure Devops
+Strong experience with writing and executing scripts
+Significant experience with the software engineering field
+Ability to manage discrepancies identified during testing and
+collaborate with the software development team to resolve
+software bugs
+Experience with contributing to the delivery of testing artifacts,
+including automated testing plans, performance test plans, test
+reports.
+Additional:
+Experience with software development using languages such as
+C#, .Net and .Net Core
+API Testing - Postman
+Automation Testing - Selenium
+Experience with the Agile Software Development Life Cycle
+(SDLC) and the integration of automated testing into a
+continuous integration and continuous delivery (CI/CD) pipeline,
+including Git and Jenkins
+Experience with developing performance test scripts and
+scenarios using industry tools, including HP LoadRunner or
+Performance Center, JMeter, or other tools
+Ability to set testing schedules and provide progress or status to
+project management and client stakeholders
+This is an exceptional opportunity to work for a one of Australia's
+leading fin tech businesses. Send CV for immediate interview.
