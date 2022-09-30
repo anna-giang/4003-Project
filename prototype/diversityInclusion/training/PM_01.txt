@@ -1,0 +1,55 @@
+About FoodByUs
+We’re a one-stop shop that allows cafes, restaurants, hotels, pubs and other foodservice businesses to order with quality wholesale Suppliers.
+Restaurants need to order meat, fruit, veg, dairy and more every day – but the way most order is still very manual and via multiple channels: via phone,
+email, text or even fax. We are changing the way food-service venues order their supplies with the next-generation marketplace. All our technology is
+built by us, right here in Surry Hills. Our developers have come from companies like Menulog, Atlassian and similar.
+We're an industry disrupter and now seeking a new addition to the team to keep up with our growth.
+Why join us?
+The team here are experienced, motivated, friendly and hard-working and you will love working with such passionate people.
+You’ll have all the responsibility of delivering our product with an exciting combination of project management, backlog management, feature mock-ups,
+product recommendations, product testing and more.
+Work with a fantastic web development and management team who have created and built successful platforms like Menulog
+Well-funded startup with a proven business model and ambitious goals – massive learning potential to grow your skills and experience
+We work in food! Enjoy learning all the ins and outs of how food supply works to restaurants, cafes, hotels, pubs, clubs, hotels and more
+Our start-up culture allows you to become a pioneer in the business and contribute to how our business operates
+About the role
+You’ll lead and manage the delivery of our software in a timely, controlled and predictable manner. As a two-sided ecommerce marketplace for food
+Suppliers and Buyers there are several moving parts to our software and you’ll be across it all.
+You will report directly to the Managing Director of FoodByUs, and work directly with our Engineering team. The position comprises both high level
+strategic outlook, as well as solid on-the-ground product delivery experience You will create and ship products/features that will change or greatly improve the way wholesale food Suppliers and Buyers work. You must be the
+expert of our product.
+You’ll create templates, sketches, mock-ups and more – this is key. A mock-up isn’t just a rough sketch, it’s a well thought out product feature or
+concept that can be discussed before the sprint begins. You’ll put this all into JIRA then make sure through detailed management the engineers are on
+time and on scope. You’ll check, you’ll test, you’ll manage the backlog, you’ll send things back for re-doing and ultimately deliver the features that are
+on spec and working beautifully.
+Other responsibilities include:
+Strategic Outlook
+Define the Product Roadmap
+Identify and prioritise features that align and deliver on the company’s goal
+Understand how your product works from technical and operational perspectives to solve user’s problem, and how to measure its impact
+Understand data & look for insights
+Know what metrics to measure for your product’s success
+Monitor and measure product launch/usage to bring insights back into the product development process
+Product Delivery
+Understand dependencies, both technically and operationally, and clear roadblocks for your team
+Project management, backlog management, feature mock-ups, product recommendations, and product testing
+Ruthless Prioritisation: Know what’s important, as well as when and how to say no
+Launch and learn: launch product features fast to deliver on company goals, and constantly learn and improve for the next iteration
+Stakeholder Management
+You need strong interpersonal skills to work with management, customers, engineers and other key stakeholders. You’ll then manage all ongoing
+communications to ensure all are kept informed at an appropriate level.
+Skills & Requirements
+Ideally you have worked in a small-medium company focusing on a single software platform or product. Still considered but less desirable is where
+you’ve worked in an agency on multiple features for several external clients.
+To succeed in this role (and more importantly to enjoy it!) you'll need the following attributes:
+Sit in the shoes of the user: You absolutely must have empathy and a passion for the user – understanding not just what they ‘say’ but intuitively
+knowing their pain points
+Experience working in a small-medium, product-focus company
+At least 2 years of experience as Product Manager
+Be user-focused: Empathise and understand the user paint-point, while maintaining clarity of the value our products provide to the users
+Strong product delivery experience: You understand the fundamentals of agile methodologies, MVP, dependencies and deliverables. Day-today you will work with the Engineer team to build your product. Must have working experience with JIRA and Confluence.
+Organised and diligent: You will cover a broad area of product and many stakeholders, so organisation and follow though your to-do list are
+important.
+Healthy attention to detail: Know which details are important, and which ones to not fuss over.
+Some UX / design experience: You don’t have to be a photoshop or UX genius but you know how to design basic features using software like
+InVision, Proto.io, Balsamiq or SketchTeam player: We are a friendly and hard-working bunch – it’s really important you’re a naturally interpersonal and team-focused person. We all rely on each other every day Familiarity with Tableau, Slack, Hubspot and Zendesk is highly desirable but not required Open minded communication: You must be a friendly, clear and open communicator. This role is all about dealing with people so you need strong written and verbal communication. You should be committed to the development of all team members and continuous development of capability within the department – stay open minded, things change fast in a startup! Education: Bachelor’s degree is required. Degree in Computer Science or Information Technology is highly preferred.
