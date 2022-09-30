@@ -1,0 +1,34 @@
+Melbourne
+Full Time
+Information & Communication Technology, Business/Systems Analysts
+
+The speed of change is throwing traditional business methods into question and disrupting the relevance of entire industries. the company, a global
+leader in consulting, digital transformation, technology and engineering services, is at the forefront of innovation and well placed to address
+opportunities for our clients in the evolving world of cloud, digital and platforms. Building on its strong 50-year heritage and deep industry-specific
+expertise, the company enables organisations to realise their business ambitions through an array of services from strategy to operations. the company is
+driven by the conviction that the business value of technology comes from and through people. Today, it is a multicultural company with over 270,000
+team members in almost 50 countries. With Altran, the Group reported 2019 combined revenues of EUR 17 billion. Learn more about us at
+Let's talk about the team:
+"If you did something twice, it is worth automating." Here at the company, we believe in going on transformation journeys together. We collaborate
+closely with both clients and colleagues across various disciplines to deliver world class solutions. Our Agile & DevOps team seeks enthusiastic,
+talented individuals to join. Ideally, you are the kind of person who gets excited about modern approaches to better software delivery and automation,
+from microservices architecture and container and serverless technologies. You work well with others and understand that the optimum almost always
+emerges through exchanging ideas. You are also keen to learn from others and share your learnings, through the articles, news and podcasts we
+consume, the documentation we create, and the stories we share, so that the team grows together. We believe that there's very little in the way of just
+doing it when it comes to experimenting with new technology; not only are you encouraged to explore your interests, develop new skills but also have
+access to our global training materials, and supported to get industry certifications.
+Let's talk about the role and responsibilities:
+You will be joining a team of high performing engineers and other professionals who are passionate about solving complex problems and focused on
+delivering innovative solutions. You will be working with industry leaders and have the opportunity to learn and contribute to the best techniques and
+patterns that accelerate work in the fast moving cloud industry. Your day to day role involves working with cloud technologies to deliver innovative
+solutions for large customers. You will face a dynamic array of challenges working across large enterprise and government clients.
+Let's talk about your qualifications and experience:
+8+ years of application design and development experience with 4+ years in banking industry.
+Experience in banking projects around Financial Lending Systems and Core Banking Applications.
+Ability to think from application NFRs while creating detailed technical design documents for the applications.
+Proven experience in delivering complex designs requirements, along with owning the design over the life cycle of end-to-end delivery.
+Ability to work with multiple stakeholders (Architects, Business Analysts and Developers) and produce design artefacts.
+Accurate Impact Assessment & Estimation for the system changes proposed to solution, along with reviewing Test coverage and Implementation
+plans.
+Good team player, lead the design work and coordinate the developers involved in the Agile teams for successful delivery.
+Strong communication, presentation and engagement skills while facilitating workshops.

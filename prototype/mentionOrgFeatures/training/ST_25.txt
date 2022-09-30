@@ -1,0 +1,72 @@
+Test Analyst - SMS Program
+BUILD your skills, create success and become inspired.
+TAFE NSW has over 500,000 annual enrolments and sets the
+benchmark for quality education in Australia. Join our innovative,
+dynamic organisation while we embark on a once in a generation
+evolution to modernise, upskill and digitally transform into a world-class
+education provider.
+
+We’re committed to building a culture of highly engaged and talented
+people, all working together in a collaborative and high-performance
+culture which facilitates career mobility and diversity. Our employees are
+valued and provided development opportunities to ensure organisational
+success and personal growth
+
+The Opportunity
+As a Test Analyst at TAFE NSW, you will be responsible for ensuring that
+testing engagements are successfully carried out, preparing test plans
+and a test phase, test cases for a given test phase based on the Test
+Objective Matrices, executing and running test cases and other required
+tests as directed, raising defects during test execution and following
+them through to closure. This role is based within a team of SME,
+Technical and Business Analysts and business resources to delivery
+testing outcomes.
+This is a 12-month temporary full-time opportunity located at Ultimo
+TAFE NSW Campus.
+
+Review the Position Description and Information Package for more
+information
+About You
+Ideally, you will will be degree qualified with relevant industry experience
+working a Test Analyst across the testing lifecycle: Sprint Testing,
+Systems Testing, Data Migration Testing, System Integration Testing and
+support of User Acceptance Testing. With experience in testing the
+PeopleSoft Campus Solutions platform functionality (Curriculum
+management, Student Finance, Enrolments, Reporting, etc.) within an
+Educational Domain at Enterprise Level. Solid experience in using JIRA
+and Zephyr/JIRA for test management, defects management and
+requirements management is required.
+
+You will be resilient and able to work in a fast-paced, complex technical
+environment undergoing significant change across people, process and
+technology. Your excellent communication skills will enable you to
+develop and maintain an effective working relationship within the SMS
+Program resources and across ICT departments.
+
+Additional requirements:
+1. Experience in use of the Atlassian Suite (Confluence, JIRA and
+Bamboo)
+2. Strong knowledge of web, mobile and cloud technologies such as
+AWS or Azure
+3. Experience in testing web services and protocols (HTTP/XML/REST
+APIs)
+4. Hands on experience using Test Stubs and test automation tools for
+functional and load testing
+5. Certified Agile Tester (CAT) qualification or equivalent
+HOW TO APPLY
+For your application to be considered, you must include:
+Attach an updated resume and cover letter outlining your suitability for
+the role
+Applications close: Thursday 2 July 2020 at 11:59 pm
+
+As a condition of employment, you will be required to obtain Working
+with Children Check (WWCC) clearance. For permanent positions, you
+must be an Australian citizen or permanent resident. For temporary
+positions, it is generally acceptable for you to have a current visa that
+allows you to work in Australia.
+
+TAFE NSW is an equal opportunity employer that is committed to
+fostering a diverse workforce.
+
+We encourage applications from people with a disability and will make
+any reasonable adjustment that you need both in the interview process

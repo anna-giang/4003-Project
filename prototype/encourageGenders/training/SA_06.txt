@@ -1,0 +1,66 @@
+Senior Analyst Programmer
+About the company
+the leading independent provider of trusted data and analytics
+products and services in Australia and New Zealand. The company is
+headquartered in Melbourne with offices in all major metropolitan cities
+across Australia and New Zealand. Our team of more than 900 work
+with leading brands in our region to bring data & analytics to life.
+We currently have an exciting opportunity for a passionate and
+energetic Senior Analyst Programmer to join our team. This is a
+fantastic opportunity for anyone who is looking to increase their skill
+set and advance their career with a large organisation.
+About the role
+Our data is our most important asset and our Technology team are in
+charge of making sure it is safe and protected. In addition, they
+provide technical support to internal and external stakeholders and
+work in collaboration with other business units to build and develop
+new products.
+The Senior Analyst Programmer will participate in the design phase of
+software projects as well as assist in planning and creating standards
+for the team. The implementation of projects is also a responsibility of
+the Senior Analyst Programmer and will require the administration,
+coding and testing of the system.
+Duties
+Gather and analyze information for designing a business solution,
+create the conceptual design for a business solution, design the
+presentation and data layers of an application;
+Assist in the creation of functional and technical specification
+documents, create a technical specifications document, create a
+test plan, and create a deployment plan;
+Participate in the formation of the project requirements covering
+areas such as business requirements, user interface requirements
+and enhancement documentation;
+Develop a software solution based on client technical requirements
+and conduct thorough testing before implementation;
+Skills & Experience
+Demonstrated Knowledge of:
+C# and the .net framework version 4+;
+HTML user interface knowledge and design principles, including
+HTML5 standards, Javascript and JQuery and basic user
+experience understanding;
+Software Development Life cycle;
+SQL Server and Oracle databases and database concepts;
+Agile and SCRUM development processes.
+Demonstrated ability to:
+Analyse business requirements and needs, converting them into a
+technical solution;
+Work within specifications and to timeframes;
+Identify problems, design solutions, analyse existing code;
+Analyse data and develop logical solutions to problems.
+Culture
+we are always seeking innovative and forward-thinking
+individuals to join us on our journey. Our culture is unique. It's fast,
+results-driven and dynamic. It's certainly not for everyone. But if you
+thrive in a high performing environment - This company could be for you!
+Benefits
+Feel good in the workplace - Australia and NZ wide wellness
+program to foster positive health & wellbeing for all employees;
+Leadership Development Programs - build your skillset and become
+a future leader;
+I'm worth Program - be rewarded for your hard work and
+dedication.
+How to Apply
+To apply, please click "Apply Now" button and we will be in touch
+shortly.
+To be considered for this position, you must be an Australian/NZ
+Citizen or have a Permanent Residency visa.

@@ -1,0 +1,29 @@
+About the business
+VantageFX is an award-winning Australian financial services firm providing online Forex trading capabilities to retail, high-net-worth and institutional
+clients globally. The business is ASIC regulated and continually strives to provide a client-friendly, interactive Forex experience. As a team we always
+look to innovate and take advantage of the latest technology, passing on benefits to our clients. Located in Sydney's CBD, We are looking for a talented
+Java developer with good understanding of Object Oriented Programming, hands-on development skills and respect of high-quality code.
+About the role
+As a Software QA Engineer, you will be a key member of VantageFX Development team driving the quality of our CRM to the next level via both
+automation and manual test. You will work within our agile software development process and have an important impact on CRM deliveries. You will
+have the opportunity to work with quality testing frameworks and tools using Java, Selenium, Jenkins, GIT and more.
+Skills and experience
+In order to be successful in this role, we need someone who has:
+5+ years professional experience in quality assurance
+Experience working within a wide variety of automated testing frameworks, including Java, Selenium etc.
+knowledgeable in testing methodologies particularly function testing, system testing and E2E testing.
+Experience with Database and SQL
+Knowledge of continuous integration and deployment tools (e.g. Jenkins).
+Must be an analytical thinker, and be able to define and/or troubleshoot issues, problems, and opportunities for quality assurance and/or
+improvement
+MS/BS in Computer Science or equivalent experience.
+Mandarin speaking
+Day to Day Responsibilities
+Work closely with the development/ product team to understand business requirements and implementation process
+Evaluate product functionality and assess product quality with most test case coverage independently
+Work with QA team to ensure the highest quality release delivery,
+Efficiently design/develop automation test cases and run execution
+Find, isolate, document, regress, and track bugs through bug management system
+
+The application form will include these questions:
+Which of the following statements best describes your right to work in Australia?
