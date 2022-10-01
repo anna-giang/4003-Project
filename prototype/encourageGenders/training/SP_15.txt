@@ -1,0 +1,37 @@
+Who are we?
+is an Australian owned award-winning independent ICT
+recruitment company that currently supplies to many of the country's
+largest banks, telecommunications, commercial and State and Federal
+Government organisations. has offices in Sydney, Melbourne,
+Brisbane, Canberra, Adelaide, Perth, Auckland and Wellington.
+
+The Role
+A large Federal Government agency is looking to expand their team with a highly experienced Cold Fusion Developer to join a small multi-
+disciplinary team with a main task of developing software on the waterfall-based methodology. The successful candidate will be required
+to Developer software applications to meet the requires from all
+stakeholders, to support projects and programs using ColdFusion. You
+will develop bespoke ICT applications while also implementation and
+embedding of commercial off the shelf collaboration and office
+productivity technologies.
+Main Responsibilities
+The successful applicant will be responsible for the following:
+Develop software application in ColdFusion
+Manage effective and productive stakeholder relationships and
+associated risks
+Develop and Deliver and agreed work plan including KPI’s and
+outcomes
+Undertake Knowledge and skills transfer, including documentation
+Requirements
+To be successful in this position, you will have extensive experience in
+analysis and design, development, enhancement and support of
+ColdFusion based applications coupled with a good understanding of
+Oracle Database. You will have a proven track record of detailed
+development effort estimations to business areas for system request
+changes and development of new components. You will be a team
+player with the ability to work unsupervised, with strong communication
+skills both written and verbal. As this role is with the Australian
+Government a minimum Baseline security clearance is a must.
+What’s next?
+If you think you are the right fit for this opportunity, please hit the apply
+button or email your resume to be considered
+for this position.

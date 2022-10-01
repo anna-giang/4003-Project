@@ -1,0 +1,94 @@
+Scientific Programmer
+
+is an integrated multi-disciplinary research institute bringing
+together the skills of world-class researchers in the areas of
+bioengineering and nanotechnology.
+seeks to deliver innovative solutions to society's problems through
+sustainable materials, healthy living and translational success. Our
+research is underpinned by AIBN's Five Pillars of Research, which cover
+stem cell ageing and regenerative engineering, precision nanomedicine,
+advanced materials, agriculture nanotechnology and advanced
+biomanufacturing. These pillars focus research efforts on
+developing new products, processes and devices for improving human
+health, the environment and quality of life. In this way, the Institute goes
+beyond basic research to promote and develop the growth of innovative
+industries, which will benefit Queensland and Australian economies.
+About This Opportunity
+Form a critical part of a team aiming to develop a better understanding
+of nonequilibrium systems through theory development, simulation and
+study of various nonequilibrium systems. Your role will include assisting
+with developing, optimizing and implementing state-of-the-art, high
+performance molecular dynamics simulation algorithms in C/C++ and
+Fortran or other languages. This will be in addition to, but not limited to:
+leading code development activities in the group including developing
+requirements, interface specifications and test plans for software
+validation and verification
+debug programs and subroutines
+Compile and evaluate test data, prepare technical analyses and
+documentation, recommend methods and processes required to meet
+design objectives for new or improved codes and/or processes
+Assist dissemination of computer code
+Collaborate effectively with group members to meet our research
+project objectives
+Collaborate with local, national and international research partners
+This position is located at our picturesque St Lucia campus, renowned
+as one of Australia’s most attractive university campuses, and located
+just 7km from Brisbane’s city centre. Bounded by the Brisbane River on
+three sides, and with outstanding public transport connections, our 114-
+hectare site provides a perfect work environment – you can enjoy the
+best of both worlds: a vibrant campus with the tradition of an established
+university.
+Our Ideal Candidate
+As a critical member to the group, you will require a high level of
+demonstrated ability in scientific programming in addition to proven
+ability to work with different data structures and to evaluate code for
+accuracy and performance. As an integral member of the team it will be
+highly advantageous that you possess excellent communication skills
+and interpersonal skills with ability to work well in a team and to
+contribute to development of a collaborative and supportive research
+environment.
+A Bachelor Degree in Computer Science, Computer Engineering,
+Physics, Computational Chemistry, Applied Mathematics or equivalent is
+a requirement for this position accompanied by the following skills,
+experience and knowledge in:
+C, C++ and Fortran
+Python
+UNIX
+Shell scripting
+Computationally focused high-level languages such as MATLAB,
+Mathematica, etc.
+Parallel programming of large distributed memory high-performance
+computers outside of a classroom/senior project setting using the
+Message Passing Interface (MPI) or similar
+Translating physics equations into software implementations
+You must have ongoing unrestricted work rights in Australia to apply for
+this opportunity.
+We value diversity and inclusion, and actively encourage applications
+from those who bring diversity to the University. Our Diversity and
+Inclusion webpage contains further information if you require additional
+support. Accessibility requirements and/or adjustments can be directed
+to 
+What We Can Offer
+This is a full-time, fixed term position for up to 5 years at Professional
+Level 06.
+The full-time equivalent base salary will be in the range $79,200.25 -
+$85,067.08, plus super of up to 17%.
+You will be able to take advantage of Sport Facilities, recreation
+leave loading, salary sacrificing options, on-campus childcare,
+discounted private health insurance, cheap parking, development
+programs and many other benefits.
+For further information, please review
+Position Description
+Questions?
+To discuss this role please contact
+For application queries, please contact stating
+the job number in the subject line.
+Want to Apply?
+To submit an application for this role, use the apply button. All applicants
+must supply the following documents:
+Cover letter addressing key selection criteria
+Resume
+To satisfy pre-requisite questions and ensure your application can be
+considered in full, all candidates must apply via the portal by
+the job closing deadline. Applications received via other channels
+including direct email will not be accepted.

@@ -1,0 +1,32 @@
+Developer Job Advertisement:
+We are an Australian owned, innovative company with best of breed audit, risk and compliance solutions. We are seeking a highly motivated and
+experienced developer to join our agile development team.
+This position will entail all aspects of developing and supporting our cloud/mobile product suite. To succeed in this role, we are seeking applicants with
+the following core competencies:
+Essential Key Selection Criteria:
+Minimum 2-3 years' experience as a developer with C# using .NET framework and .Net Core
+Experience in building RESTful API
+Experience in Entity Framework Core and LINQ
+Experience in Asynchronous programming
+HTML5 / CSS experience
+AngularJS and JavaScript experience
+SQL Server 2014 or above experience
+Experience in writing Unit testing and Integration testing
+Understanding of Software Development principles including design patterns & reusable design
+Strong understanding with Continuous Integration and Deployment
+Strong written and verbal communication skills
+Ability to be an active and involved team player
+Passionate about building high-quality systems with software implementation best practices
+Desired Key Selection Criteria:
+SQL Server Reporting Services 2014+ experience
+Experience in developing responsive apps using Bootstrap or a different framework
+Experience in developing Hybrid mobile apps
+Experience in Cordova and PhoneGap
+Experience in Agile software development
+User experience design (UXD) experience
+This is an excellent opportunity to gain in-depth experience in developing with the latest technologies as well as exposure to the many other facets of
+our system.
+The successful candidate should have formal qualifications in Software Engineering, Computer Science, or a similar discipline and experience working
+in a commercial software development environment. Reporting directly to the Team Leader - Software Development and Support, you will be part of an
+inclusive team where your opinions and decisions will help shape the company's future.
+Please email your Cover Letter and Resume by close of business Friday 17th July 2020.

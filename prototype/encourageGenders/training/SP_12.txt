@@ -1,0 +1,34 @@
+Senior Javascript Developer | New
+Real-Time System 
+About the Company
+Our client is a technology company who have some major, high profile
+clients. You will be working on long term, complex projects in a high
+performing, dynamic team. There is a flat structure where every
+employee is valued and encouraged to share their opinions.
+The Team
+You will join a team of 20+ collaborative, talented and passionate
+software developers. They have a “you build it, you maintain it” ethos
+which means there is a focus on balancing good engineering with
+delivery demands. You will follow agile / scrum methods.
+The Gig
+You will be a talented, senior Javascript developer with a wide range of
+experience, including some modern JS frameworks, primarily with
+Angular. You will be working on a brand new project to build a critical
+software for a large Australian client. Being a technology business,
+developers are centric to the organisation and you tend to get what you
+need to do a great job.
+About You
+You come from a Javascript background and you take pride in the code
+that you produce. You will be well versed in modern JS frameworks
+such as Angular and ideally have integrated with a .Net/C# backend in
+past projects. You are an exceptional communicator and have
+experience working with external stakeholders.
+Your KEY SKILLS
+8+ yrs extensive experience with Javascript ES6+
+Ability to work on native Javascript and unit testing
+Strong experience with modern JS frameworks such as Angular (v5+)
+Working knowledge of .Net/C#
+Azure services is desired
+Good experience working with external stakeholders
+Ability to work TDD/BDD
+Apply directly to be considered for immediate interviews this week.

@@ -1,0 +1,74 @@
+Role Overview:
+has three main ways in which we deliver value to customers; Professional Services (customer projects), Solutions (IP and software products
+that we develop) and Customer Care (Ongoing support). This role is part of the Solutions team. The purpose of this position is to execute on the
+development of new solutions at contribute to the maintenance of existing solutions, and assist with the delivery of the Solutions strategy
+across the organisation. The Junior Solutions Developer will bring with them expertise in the development space, learning a variety of technologies and
+programming languages, and show a strong aptitude to learn new things, or provide new ideas for the consideration of the Solutions Team Lead.
+
+Stuff we’ll trust you with:
+Develop technical solutions, peer review and provide feedback on solutions.
+Deploy our in-house technical solutions onto client environments. Assist with the technical readiness and understanding of the solution by our
+clients.
+Maintain existing solutions, peer review and provide feedback on solutions.
+Undertake R&D activities, including research, experimentation, collaboration, documentation, knowledge sharing.
+The accountabilities as specified above maybe altered in accordance with the changing requirements of the position.
+
+What  will offer you in this role:
+Own the way you work with flexible work arrangements.
+We recognise that life is easier when cash flow is easy. That’s why we’ll pay you weekly – not fortnightly or monthly like other companies.
+We’ll help with you support your family – get up to 4 months Paid Parental Leave at full salary for primary carer (not including government-funded
+parental leave).
+Be mentored – grow your career – we want you to be with us for a long time.
+Transparency – we’re open about what’s happening in the company, where it’s going, how it’s performing.
+Stay connected – BYOD policy, mobile allowances reimbursement program.
+Keep learning – training opportunities and reimbursement.
+Sustenance! Free breakfast provisions, fruit, juice, beer, wine, coffee, tea, soft drink, beer, chips, beer...did we mention beer?
+Stay engaged – work alongside amazing people and contribute to the company culture.
+Incredible discounts on products and services through our employee benefits portal and third party partners (such as 5% off Coles/Woolworths and
+half price movie tickets).
+
+Skills, Knowledge and Experience:
+Ideally, you'll have these skills when applying for this job:
+Tertiary qualifications in Computer Science or comparable discipline;
+Microsoft Certifications are highly desirable for this position.
+1-4 years experience working in a similar role.
+Software development skills, within a Microsoft framework
+(languages to include .Net, C# and SQL).
+JavaScript client-side development
+React
+Office Fluent UI
+Reporting and BI capabilities or knowledge, specifically within the Microsoft stack.
+Excellent analytical skills in order to produce high quality solutions, documents and technical specifications.
+Strong, passionate knowledge of the Microsoft stack, including the Power Platform, Teams, SharePoint, Project Online/Server, Office 365 and
+familiarity with project management tools.
+Demonstrated ability to problem solve.
+Strategic thinker with the ability to align technology with the business objectives and organisational drivers.
+Strong time management with the ability to manage multiple projects and competing client demands.
+Possess an understanding of project management and financial management principles to be able to understand the language our clients use.
+
+Highly Desirable - Skills, Knowledge and Experience:
+Excellent communication skills
+Attention to detail and an appreciation of the maintainability of a solution as well as its technical prowess.
+Foosball skills.
+
+About you:
+It's important for you to feel that this is the right job for you. We want you for both a long time and a good time, so choose wisely! Here's some things
+you'll need to bring to the role:
+You genuinely think you can make a difference to the way our customers work, and you have a positive outlook on life.
+You're not afraid of hard work. Curly challenges. Sometimes inconvenient hours.
+Perhaps you attend (or run) local user groups. In any case, you're curious about how things work. You don't pretend to know everything – and as a
+result, you are constantly learning.
+People trust you. You have the ability to be handed a problem and feel confident that you can resolve it.
+You're comfortable with change.
+You're going to write an amazing cover letter for this role :)
+If this sounds like you, we strongly encourage you to apply!
+
+About:
+is a specialist technology company that helps clients achieve better project and productivity outcomes. Our vision is
+to evolve the productivity and improve the business of every customer we engage with. We are known for our expertise and are a leader within the
+Microsoft productivity landscape. We are a profitable, growing, awesome place to work that everyone at  is proud of. Things you should know
+about us before applying to join:
+We're growing. You won't be the "new person" for long :)
+We're a friendly and fun bunch. We work hard.
+We have high expectations, but we'll make sure we help you meet them.
+You can find out more about us on our website

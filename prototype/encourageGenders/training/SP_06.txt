@@ -1,0 +1,51 @@
+Microsoft - Developer Programmer
+Technologies is a software consulting and services company offering its Business and IT application services across various clients in
+Australia. It is a company which believes in employee's strengths and values to make a promising company.
+
+Technologies, Australia is hiring a experienced developer in Microsoft .NET, SQL BI, MS Dynamics Enterprise technologies to work at
+Sydney for a contract period of 12 months with a possible extension.
+
+Position: Microsoft Developer / Programmer - Dot NET (Windows & WEB), SQL BI, MS Dynamics 365 CRM, NAV, WPF, Azure, JQuery, Node.Js,
+Knockout JS and Integration with Hardware devices
+
+About the Role:
+We are looking for a full-time contract developer who has enough experience to do requirement / scope analysis, Solution Analysis, Technical design,
+develop the code as per the technical specifications and architecture, implement and maintain suite of applications in Microsoft Windows, Enterprise
+and web technologies. Simultaneously, the legacy applications are also to be supported along with porting and migrating into new technologies in
+Microsoft. It requires client interaction and support as well.
+
+Essential Experience & Skills:
+More than 10 years of Windows, & Web application development experience
+Experience on working Enterprise web applications, ERP systems and integration with other in-house systems
+Ability to write and maintain web and windows related software projects to meet system requirements, design and technical specifications
+Working experience in Microsoft Web & Windows development products, platforms and architecture
+Working experience in integrating and interacting with hardware devices with the given standard protocols
+Understand the legacy Microsoft application to further support and maintain
+Experience in migrating legacy applications to new Microsoft Systems
+Test, debug, diagnose and bug fixing with testing guidelines and quality standards ensuring programs and applications perform to business
+specifications;
+To analyse the existing technologies and tools for its efficiency and limitations for scalability and performance. Modify the necessary features and
+frameworks to achieve business goals
+Working with Business Analysts and network administrators to deploy and maintain enterprise web applications
+Experience in C#, ASP.NET, Entity framework 5, Web forms, Web API, Dependency injection, and Microsoft SQL Server 2010-2012 is essential
+Experience in Microsoft Dynamics 365, CRM, NAV and its integration with other systems is highly essential
+Experience in developing complex Stored Procedures using T-SQL is essential
+Experience in complex reports writing using SSIS, SSRS and deploying through web portal
+Experience with MVC4, AJAX, Node.js, WPF, Java script, jQuery are optional
+Experience working in Energy Management & Procurement industry is essential
+Experience working in Microsoft Azure and Service Fabric architecture
+
+Key Responsibilities:
+Participate in research, solution design, Develop the software, evaluation and system configuration activities to ensure the requirements are met.
+Individually responsible for the whole system design, development and maintenance.
+Help and interface with customers for preparing technical proposals, giving guidance and offer right strategies and software design. Assist in
+costing of the tools and systems involved.
+Develop system design documents, technical documents and testing materials.
+Ensure consultation with relevant business stakeholders regarding key information.
+Strong focus on time management to deliver quality solutions within stipulated time
+Strictly responsible for delivery timelines set by client
+Maintain the existing system and migrate new technologies
+Interface with customers with industry knowledge and working experience
+
+The selected candidates should be able to start immediately or at the earliest.
+Salary: $ 94,000 Plus Super
