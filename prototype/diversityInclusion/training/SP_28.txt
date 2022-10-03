@@ -1,0 +1,41 @@
+Our Company
+Our goal at  is To create awesome experiences that inspire our customers to make confident choices. We are a digital media business
+who manages and continues to innovate on three sites: Racenet, Punters, and Greyhound Recorder. We also have the mandate to take our affiliate
+marketing capability in the wagering sector global with plans for expansion in both Europe and the US. is a subsidiary of one of the
+worlds largest media companies News Corp Australia (NCA). In the next three to five years we expect to at least triple the size of our business.
+The Team
+Our Team tells us that our people are what makes our company great. We are a bunch of racing and sports enthusiasts who are
+passionate about the products we provide and take to market. We value team players, innovation, a customer focus, drive and accountability and this
+provides the foundation for us to develop end-to-end awesome experiences that inspire our customers.
+We work on great well-known brands. We collaborate on Jira and Slack, we trust our staff and we understand everyone needs flexibility with their work.
+Our systems are auto-scaled on AWS & Azure. Our workflow is agile. Our staff are talented, focused and friendly. We're in horse racing and sport. The
+tech brings the data to life for our customers.
+The Role
+As a Software Developer at youll be joining a team of highly skilled, driven & passionate developers. Working across the full suite of our
+exciting brands you will actively develop new features, contribute to the architectural design of new systems and look for opportunities to innovate our
+products. The responsibilities of the role are:
+Development of website features (front and back-end)
+Maintenance, auditing & optimisation of existing systems
+Maintaining high standards of software quality by adhering to coding practices and habits
+Manage technical support issues
+Data management
+Software solution planning and design
+Other tasks required to successfully undertake the role of a Software Developer
+The skills and experience you will bring are:
+A robust understanding of modern JavaScript (ES6+) & Node.js development
+An in-depth working knowledge of PHP (7.0+)
+An understanding of AWS and its products & services
+Database cluster management
+Ability to write complex and efficient MySQL queries
+CI/CD configuration and implementation
+Demonstrated experience as a full-stack web developer
+Exposure to AWS Lambda & the Serverless framework
+Solution architecture and design
+Infrastructure as Code development & management
+A passion for code, development, technology and self-improvement.
+Importantly, align with our values: Team Players, Innovative, Customer Focused, Driven and Accountable
+Highly desirable
+Working experience with Nuxt and/or Next
+Active development with Express and/or Nest JS frameworks
+Docker, Ansible and/or Packer image development.
+Exposure to Azure and/or GCP

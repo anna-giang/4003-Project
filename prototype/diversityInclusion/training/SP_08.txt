@@ -1,0 +1,26 @@
+is fast growing and innovative. are leaders and specialists in intelligent technology solutions and consulting services, for
+the Health and Wellbeing sectors. Our flagship software system supports/performs all the functions of Residential Aged Care, Home Care,
+Independent Living Units, Community Health Centers and Disability customers of any size.
+We are seeking an experienced Software Developer with a combined passion for software development and client management. This is high paying
+and hands on for the right person with a can do attitude.
+Job tasks and responsibilities
+The selected candidate will work within our Melbourne based team to perform development tasks as allocated. The tasks will include: -
+New product development
+Data migration and management
+Troubleshooting
+Product enhancements
+The ideal candidate will have tertiary level qualifications in IT and superior skills in the following technologies:-
+3+ years of commercial experience in PHP (Frameworks including CodeIgniter / Laravel) & MySQL/MS SQL
+3+ years of commercial experience in HTML/CSS/JS/jQuery
+1+ years of commercial experience in AngularJS/ Angular and AJAX
+Ability to handle projects independently
+Ability to reverse engineer application functionalities
+MS SQL Server knowledge Preferred
+Extensive knowledge and experience using Git
+XML/REST
+Web Services
+Development of and integration with REST APIs and JSON exchange files
+Bachelor in IT, and minimum 3 years work experience
+This is a development position and we are looking for a dedicated individual who can work individually and in a team.
+Due to the large volume of applications expected, only successful candidates will be contacted. NO RECRUITMENT AGENCIES PLEASE. Only
+successful candidates will be contacted. Must live/willing to travel to the office in Heatherton.

@@ -1,0 +1,69 @@
+Senior Quality Assurance Engineer
+
+2 locations - Parramatta & Maitland/Ongoing role/Salary package up
+to $135,304
+About Us
+Revenue NSW Quality Assurance Test team provides testing services
+for Revenue NSW applications across different business units. These
+applications are of various sizes and cover web, mobile and back office
+systems.
+About the Role
+We are currently seeing to appoint Senior Quality Assurance
+Engineers who will lead and contribute to the resourcing,
+implementation and review of large and or complex quality assurance
+projects. This will include compliance monitoring, issue resolution and
+reporting to provide consistent quality assurance. We support flexible
+working practices with staff working remotely during this time.
+In this role you will:
+Coach and support other Quality Assurance Engineers
+Create test plans, test status and summary reports.
+Analyse the business requirements, user stories and system solution.
+Provide the superior testing competencies to ensure testing is efficient
+and completed in time using planning skills and working with the
+assigned team.
+Manage the use of automated testing for the assigned work in an
+efficient and productive manner to ensure testing is delivered to
+quality and within time parameters.
+Execute functional, non-functional, and regression tests (as
+applicable)
+Skills and Experience Required:
+Strong experience and the ability to coach and deliver test plans, test
+summary and status reports and assigning tasks to test team
+members.
+A proven background in manual and automated testing. Experience of
+writing test scripts including the required SQL commands and
+reference to validating results.
+Superior knowledge of enterprise level testing suites such as HP QC,
+JIRA, Selenium, TFS etc.
+Test planning and management of testing in large enterprise
+environments. Including Internet delivery systems, Unix and batch
+processing systems.
+Good knowledge and experience with XML and ability to identify and
+create data in various formats.
+Complete understanding of the SDLC.Demonstrable testing within an
+Agile delivery model, preferably Scrum.
+Demonstrable ability to work to deadlines and balance competing
+needs
+How to Apply: Your application should include a one page cover letter,
+indicating your preferred location, and an up-to-date resume of no more
+than five pages which clearly details your skills and experience.
+Working at Department of Customer Service
+The Department of Customer Service is a great place to work! Our
+values of accountability, trust, service and integrity drive our initiatives
+and culture. We support innovative programs in areas as broad as digital
+government, consumer protection and major public works. We are an
+inclusive organisation that celebrates diversity and flexible work
+practices and believe our people are our greatest asset.
+Salary Grade 9/10, with the base salary for this role starting at $110,745
+base plus superannuation
+Click Here to access the Role Description. For enquires relating to
+recruitment please contact Maggie DeUbago via
+maggie.deubago1@customerservice.nsw.gov.au.
+Closing Date: Sunday, 5 July 2020 [09:59am]
+The Department of Customer Service is proud to be an EEO Employer
+who are fully focused on equality and believe deeply in diversity of all
+identities making us different and a true reflection of our NSW
+customers. As an inclusive workplace, we support various employee
+resource groups, practice flexible work and workplace adjustment.
+If you do require an adjustment during the recruitment process, please
+notify us on your application form.

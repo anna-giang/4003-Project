@@ -1,0 +1,61 @@
+Automation Test Consultant
+
+Automation Lead Test Consultant
+Green Light Australia’s Melbourne practice is growing with a number of
+Greenfield projects kicking off and we are looking for an Automation
+Lead Test Consultant with strong automation and Agile delivery
+experience to maintain capability across our project portfolio. In this role
+you'll play a crucial part in Green Light’s ethos which is to improve
+quality, speed up development time and consistently deliver high end
+solutions to our partners.
+Your day to day activities will be a mix of automation and all test
+activities in relation to manual testing of customer facing web
+applications, mobile devices, back end systems, internal systems and
+infrastructure changes.
+Required Skills and Experience:
+Outgoing and passionate quality professional with understanding of
+Agile Scrum/ Testing and strong collaboration with developers,
+business analysts and DevOps during a sprint cycles.
+Proven ability to lead and manage small teams
+Strong test management skill and in-depth knowledge of current
+testing techniques
+Experience in test automation design with Continuous Integration (CI)
+/ Continuous Delivery tools like TeamCity, Jenkins, TFS, Octopus.
+Exposure to test environment management such as virtualisation
+(VMware, Hyper-V), Cloud (AWS, Azure), Vagrant, Packer,
+Chef/Puppet/DSC or Docker.
+Business Driven Development (BDD) such as SpecFlow, Cucumber
+or Test Driven Development TDD.
+Excellent understanding of Web stack (Web Services [SOAP and
+REST], HTML DOM and HTTP).
+Demonstrable expertise in Selenium, Python, Bash scripting and
+scripts with JAVA
+Be enthusiastic about working in a collaborative environment and
+understand teamwork with colleagues from different streams of
+software development to achieve desired outcomes.
+Demonstrated experience in Backend API testing / interface: REST,
+JSON, XML.
+Some experience of performance testing (Jmeter, SoapUI,
+Loadrunner, Visual Studio Load Testing tools).
+Baseline Security Clearance or an Australian Citizen willing to
+undertake Baseline clearance.
+Nice to have:
+Knowledge of automating Windows based applications.
+Knowledge of automating security testing.
+Ability to act as a technical analyst if required.
+Experience with Jira, Confluence, BitBucket from Atlassian.
+Experience with Titan or Janus Graph DB would be highly desirable.
+Previous experience as a Full Stack Developer would be highly
+desirable.
+Background working in a complex ICT environment.
+Green Light is one of Australia's most successful and fastest growing IT
+services businesses. We offer a wide range of IT services in Security,
+infrastructure and Systems Integration to a diverse customer base
+throughout Australia, New Zealand, SE Asia and Europe.
+If interested in the role, please contact for
+further information. Resumes to be sent in WORD format.
+
+Please note as part of the hiring process, Green Light will request
+reference checks and verify your entitlement to work in Australia. You
+may also be required to undertake background checks and police
+checks.

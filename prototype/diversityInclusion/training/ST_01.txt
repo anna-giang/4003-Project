@@ -1,0 +1,39 @@
+Re-think how you test and what you think testing is for in this role. If
+you're stuck in a step by step, templated work flow of the ISEB or ISQTB
+style of thinking - then you are definitely not suited.
+We need people who like to think, who are creative, who have fire and
+passion to work out solutions, who don't just show up on the job doing
+what they have done before. You don't do 'robotic',you aren't so scripted
+you can't think or design strategies built from the requirement in front of
+you.
+So if you're saying to yourself "wow, you cow" you get Nothing! GREAT.
+BUT, if you back yourself, are incurably curious, excited about new stuff
+and can hold you're own around motivated, exceptionally smart people,
+if you are honest and love learning new stuff I'd love to talk with you
+Do you ask yourself questions like "How do I know that I know?".
+If you know the impact of your reputation on whether the developer
+thinks your bugs are worth looking at?
+If you've stepped back at something you've done and taken real pride in
+the work you've done..?
+If you love it when stuff works and you get a sense of clarity and sanity
+about how you got stuff sorted...
+... and other stuff of this nature. Then there is this role, read below.
+
+Main Activities/Tasks
+• Context driven approach to testing at all times
+• automate the SHI* out of everything (node JS environment)
+Log clear, reproducible bug reports
+• Advocate for bugs throughout the resolution process
+- advocate for "QA assistance"/ Shift Left paradigms
+Technical Expertise
+Ability to code in Node JS for writing an automated test harness
+Understand issues, concerns and lay of the land around usability,
+security, third-party integration, accessibility, performance, load,
+cross-browser compatibility and mobile devices...
+Ability to create and define a test approach for any given context
+A good understanding of metrics and their use in project analysis
+Ability to write clear bug reports quickly and concisely
+Put "wow you cow" in the subject line and email me your resume. Be
+warned, I bug check your resume for mistakes and whether you have
+addressed the main requirements.
+For Australian residents only and you need full Australian working rights.

@@ -1,0 +1,60 @@
+Join our growing team
+Work with a range of clients and projects
+Permanent Full-Time/Contract opportunity based in Melbourne
+CBD working remotely
+AccessHQ, a Dialog Group company, is looking for a Software
+Automation expert in Melbourne.
+The Role - Skills and experience required:
+Experience building Automation and DevOps strategies and
+plans to create an effective automation capability at a project
+level and implementing these strategies to demonstrate
+business value to our customers
+Demonstrable experience in Developer, SDET and Automation
+Engineer type roles writing OOP code in Java, C#, Python,
+JavaScript etc.
+Experience working with GUI, Web, Web Services and Mobile
+application
+Best practice Test Automation with tools such as
+Junit, TestNG, MSTest, NUnit, XUnit, Jest, Mocha etc.
+Selenium WebDriver, Appium, Protractor, Puppeteer
+Cucumber, SpecFlow, JBehave, Robot Framework
+SoapUI, Postman, REST-Assured, Karate
+Continuous Integration and Continuous Delivery with one or
+more of the following:
+Jenkins, Bamboo, CircleCI, Azure Pipelines
+Working with AccessHQ:
+Delivering assurance and testing solutions so clients think of
+AccessHQ as a trusted partner
+Working closely with AccessHQ's account teams to build
+business and improve relationships
+Improving business goals, services and processes;
+differentiating AccessHQ
+Supporting the Human Quality vision with creative thinking
+The Rewards:
+Working with an assurance and testing consultancy that is
+challenging the industry to think in new and positive ways about
+quality. Collaborating with outstanding colleagues on projects
+which provide great opportunities for career growth. Earning a
+market competitive salary, being recognised for great work,
+mentoring and supporting team members. Supporting high profile
+clients and achieving their quality expectations and aspirations.
+AccessHQ and Dialog Group
+AccessHQ has over 20 years' experience in assurance and
+testing and is passionate about making technology live up to its
+promise. Technology enables us to work, connect and learn.
+AccessHQ is the voice of people using technology - customers,
+students, employees...presenting the face of Human Quality.
+AccessHQ is a wholly owned subsidiary of the Dialog Group of
+companies. Dialog is Australia's largest privately-owned IT
+Services group, operating across the Asia-Pacific region.
+Employing more than 1,200 dedicated consultants, Dialog's focus
+is on delivering outstanding results to its many corporate and
+government clients.
+Applicants must be Australian or NZ citizens or have a valid work
+permit.
+Click the button below to apply or go to the website above for
+more opportunities like this. If you want more information on the
+key attributes we look for when assessing applicants go
+to www.accesshq.com/careers
+All applications will be treated in the strictest confidence. Dialog
+Group is an equal opportunity employer.

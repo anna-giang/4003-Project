@@ -1,0 +1,61 @@
+$80,000 - $99,999
+Full Time
+Information & Communication Technology, Developers/Programmers
+
+JOB TYPE: Permanent
+LOCATION: Brisbane
+REPORTS TO: Management
+STARTING DATE: July / August 2020
+
+THE COMPANY
+offers Cloud Document Management systems for any size of professional service business and is a leading supplier to the Australian and New
+Zealand Accounting profession. Our operations have recently branched out to South Africa, the UK and USA.
+
+THE ROLE
+is looking for an experienced and innovative Web App Software Developer to work in a programming role, on all technical aspects of the
+design, development and maintenance of software applications. The candidate will be a member of the development team, working in C#
+ASP.NET / Javascript environment running against a SQL Server database. The candidate will be responsible for writing source code based on
+designs approved by management. This will include undertaking research tasks, programming and working with quality acceptance testers with
+problems they encounter in testing the software.
+The ideal candidate for this role will be a person requiring limited supervision and with at least 5 years software development and/or software
+implementation and support experience.
+If working on new cutting-edge projects is your cup of tea, then this role is for you.
+
+RESPONSIBILITIES
+Main tasks include the following:
+Design and development of new features, enhancements and modifications as specified by the Product Team.
+Draft technical specifications of software modifications requested.
+Black Box and Alpha testing of code changes and new software features.
+Analysis, design and coding using C#.NET, SQL, JavaScript and other relevant tools.
+Assist with technical support tasks, including data conversions and AWS infrastructure maintenance.
+
+SKILLS AND EXPERIENCE REQUIRED
+Computer science or relevant tertiary qualification
+5 or more years development experience with exposure to Web Apps and ASP.Net
+Solid C# ASP.NET proven capability (.NET Framework 3.5+)
+Excellent SQL skills (including T-SQL, stored procedures and functions)
+Experience with relational database design and/or administration
+User Interface (UI) design experience
+Other beneficial programming languages: JavaScript, HTML5
+In-depth technical skills and experience (implementation, development, testing, databases, etc.)
+Mobile applications development experience will be an added bonus.
+Good business and application sense
+Good communication skills, written and verbal
+Strong problem-solving skills
+Attention to detail
+
+PERSONAL ATTRIBUTES
+Innovative and out-of-the-box thinker.
+Have an ability to react in a flexible manner to many and varied requirements.
+Hardworking and ability to handle pressure.
+Able to comfortably work to tight deadlines with little or no supervision.
+Mature attitude to developing communication with team members
+Ability to work to flexible timelines in order to meet deadlines.
+Ability to prioritise.
+Commitment to customer service and quality.
+Able to grasp new technologies and keep up to date with changes.
+Time and project management skills.
+
+SALARY
+The annual salary will be in the range of A$80k – A$100k, depending on the selected candidate’s skill set and experience.
+Please submit your resume together with a cover letter, telling us in your own words why you are the right person for the job.

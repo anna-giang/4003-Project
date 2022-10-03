@@ -1,0 +1,61 @@
+Full Time
+Information & Communication Technology, Testing & Quality Assurance
+
+PERKS
+The perks of being part of the Flo2Cash team don't stop at collaborating with great people on exciting and innovative projects. We also offer Super,
+Flexible Work Hours, Time-off, Bonus on Achievements - and a Culture of Learning.
+DESCRIPTION
+The successful QA Engineer will be highly customer focused, obsessed with quality, with a proven record of working effectively across functional
+organizations. Flo2Cash is looking for a QA Engineer who has strong experience with test cycle and looking to move up to a test lead position. The
+suitable candidate should be a strong hand on QA with good technical experience and the ability to drive against a high-level test strategy based on a
+data driven quality approach. The QA engineer will be a strong quality advocate with a good planning and optimization mindset. In this role you will:
+Test code at the user level, both manually and with automated tools
+Use black box, gray box, and white box testing techniques
+Understand software internals, debug problems using log files, and write automated tests and/or user-level test automation tools
+Deliver highest quality product and define measurable metrics to gauge progress against objective QA goals.
+Work with business and development teams to understand product vision and requirements
+Work with offshore test resources.
+Set and drive expectations around quality for major releases grounded in solid customer impact and product understanding
+Understand how all elements of the system software ecosystem work together and develop QA approaches that fit the overall strategy
+Be responsible for development of test strategies and creation of appropriate test harnesses
+Oversee and execution of test plans and monitor and report on test execution
+Work with Software Developers to understand features and technical implementation and with groups such as Product Management, User Design,
+and Customer Support to understand customer usage models and develop test plans and test suites that approximate real-world environments
+and regression tests.
+Responsible for driving the software development process toward quality-centric methodologies.
+BASIC QUALIFICATIONS
+Bachelor’s Degree in Computer Science or related technical field
+5+ years in a test or development role as part of a product development organization which has delivered consumer-oriented products
+Strong experience in Agile development, Test development cycle and Test-Driven Development
+Demonstrated experience in establishing and managing QA processes, procedures, and testing strategies.
+Practical experience with QA methodology and tools
+Experience in automated API Testing (Postman)
+Experience in developing test script for user-level test automation such as Selenium and Cypress.
+Experience in CI/CD process
+Experience in JIRA and/or X-Ray
+Able to work effectively in a team environment and strong cross functional skill.
+Able to work in a dynamic environment with light documentation and lean process.
+THE IDEAL CANDIDATE
+People management skills to coordinate efforts and activities of other members of the QA team.
+Strong experience in testing applications using automation frameworks and tools such as Selenium and JMeter
+Monitor and report testing outcomes and overall progress by share periodic reports with the management team
+Experience working closely with development and business teams to communicate problem impacts and to understand business requirements.
+Shows creativity and initiative to improve product test coverage and effectiveness
+Experience to work in a start-up and/or small enterprise environment
+Comfortable communicating cross-functionally and across management levels in formal and informal settings
+Experience working in the payment’s domain and/or financial applications
+Experience writing code in one or more languages
+Experience with Microsoft Visual Studio Test Manager
+Experience with .NET ecosystem and tooling
+Knowledge and experience with Microservices and distributed architectures
+Able to bring new knowledge and ideas to the team
+Demonstrated ability for innovation in a fast paced environment
+COMPANY
+Flo2Cash is a technology company headquartered in New Zealand. We build payment infrastructure for businesses around the world. Flo2Cash
+combines a payment platform with applications for businesses of every size – from start-ups to large organizations - to accept payments, accelerate
+revenues and manage their business operations.
+Flo2Cash is an equal opportunity employer. We are committed to a diverse and inclusive workplace for all. We recognize that the success of our
+customers depends on the perspectives and contributions of all our people, their diverse backgrounds, abilities, ideas and experiences. If you are
+contacted for a job opportunity, please tell us of any accommodations needed to ensure fair and equitable access throughout the recruitment and
+selection process. All accommodation information provided will be treated as confidential and used only for the purpose of providing an accessible
+candidate experience.
