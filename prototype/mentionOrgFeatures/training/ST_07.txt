@@ -7,14 +7,14 @@ Sydney. $110k Package * Manual tetser, Agile environment
 Superannuation, Wealth Management, Trading, Broking,
 Investment essential.
 * Sydney
-*110k Package
+* 110k Package
 * Financial Services - mandatory:- Superannuation or Wealth
 management
 This is a great opportunity for someone who is looking to work in a
 true Scrum environment and mentor more junior members of the
 team. Its a fast growing and well known business in the CBD who
 invest in their staff and reward well.
-The technology team’s structure will allow you to be exposed to
+The technology teams structure will allow you to be exposed to
 and have the opportunity to build your skills across functions within
 technology with a high level of support, training, certifications and
 personal development.
@@ -29,7 +29,7 @@ MUST have come from a Fintech or Financial services firm. Must
 be one of the following business areas: Super annuation, Funds,
 Portfolio, Trading, Broking, Investment, Stocks, Shares, Wealth
 Management
-Minimum 5 years’ experience within a testing/change
+Minimum 5 years experience within a testing/change
 environment
 Sound experience in Manual Software Testing, including best
 practices and methodology
@@ -47,7 +47,7 @@ You will report into the Test Team Lead who reports into the Head
 of development and you will be responsible to Test Manually and
 help guide and mentor x5 junior (including graduates) to help with
 test planning, preparation & Execution.
-The “right culture fit & attitude” is everything and so you will be
+The right culture fit & attitude is everything and so you will be
 passionate to improve and be part of a team.
 ((This is a hands on role and will not suit a manager who wants to
 be involved in team recruitment, appraisals etc. Its guiding and
