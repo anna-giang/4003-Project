@@ -1,0 +1,26 @@
+A Federal Government Department based Canberra is seeking a
+
+System Architect to join a specialist software team to work on a web-
+based application, built on the Microsoft technology stack, using agile
+
+software development methods to deliver three major enhancement
+releases each year.
+To be successful, you will have the following skills and experience:
+Experience with ensuring the integrity of system architecture
+An ability to refine the performance, safety, security and system
+requirements
+Define innovative solutions to meet customer requirements
+SQL Server Development skills including; table and view creation,
+query optimisation and stored procedure development.
+Experience with SQL Server Integration Services (SSIS) packages for
+facilitating ETL processes
+Strong ability to analyse and model user requirements and rapidly
+translate these to physical database implementations.
+Ability to work flexibly across a range of tasks within a small team and
+to learn to use a specialised development toolset to rapidly create
+business objects to meet user requirements
+Business analysis experience
+Ability to deliver presentations of prototypes and informal training to
+small groups (eg up to 3 users)
+Experience with SQL Server Reporting Services (SSRS)
+Some knowledge of Web Development with C#, MVC, jQuery

@@ -1,0 +1,24 @@
+Professional services firm require Architect to help define, plan and lead an Enterprise wide architectural transformation.
+Responsibilities:
+Establishing complete technical and non-technical requirements, translating those requirements into actionable project initiatives w/associated
+metrics.
+Provide overall lead necessary to deliver a quality solution that meets the client's business requirements.
+Participate in proposal activities and discussions with customer and client visits as SME
+Participate in POC, Architect and validate complex technical solutions when required.
+Provide Technical leadership and create technical differentiation.
+Arrive at possible solution alternatives that factor in gap resolution, impact on related functional and technical areas, acceptability of the solution to
+the user community, technical feasibility and efficiency. In order to assist in arriving at the final solution definition.
+Provide insight to new and emerging trends and best practices.
+Skill / Experience Requirements:
+Essential
+Experience with a number of enterprise applications for global business and Enterprise Architecture best practice designing technical solution
+architecture and integration.
+Experience in the architecture and design of one or more successful solutions spanning multiple platforms, including integration, data migration,
+and authentication/Roles based access control.
+Salesforce, AWS, integration,
+SSO/SAML/Azure AD would be advantageous
+API Management design, mobile/Micro-Services
+Preferred
+10 + years of relevant experience in enterprise technology solutions
+Extensive experience with technical architecture design with proven experience in integrating disparate applications
+Experience working with cross-functional, globally dispersed teams
