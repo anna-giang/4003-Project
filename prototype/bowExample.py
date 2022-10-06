@@ -8,20 +8,20 @@ from bagOfWords.BagOfWords import BagOfWords
 # Initialise a model for each of the recommendations
 diversityInclusion = BagOfWords(
     recommendation="diversityInclusion",
-    trainingLabelsPath="\\labels\\diversityInclusion.csv",
-    testLabelsPath="\\labels\\diversityInclusionTest.csv",
+    trainingLabelsPath="/prototype/labels/diversityInclusion.csv",
+    testLabelsPath="/prototype/labels/diversityInclusionTest.csv",
 )
 
 encourageGenders = BagOfWords(
     recommendation="encourageGenders",
-    trainingLabelsPath="\\labels\\encourageGenders.csv",
-    testLabelsPath="\\labels\\encourageGendersTest.csv",
+    trainingLabelsPath="/prototype/labels/encourageGenders.csv",
+    testLabelsPath="/prototype/labels/encourageGendersTest.csv",
 )
 
 mentionOrgFeatures = BagOfWords(
     recommendation="mentionOrgFeatures",
-    trainingLabelsPath="\\labels\\mentionOrgFeatures.csv",
-    testLabelsPath="\\labels\\mentionOrgFeaturesTest.csv",
+    trainingLabelsPath="/prototype/labels/mentionOrgFeatures.csv",
+    testLabelsPath="/prototype/labels/mentionOrgFeaturesTest.csv",
 )
 
 # The text from the job ad you want to analyse
