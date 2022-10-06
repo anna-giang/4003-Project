@@ -8,6 +8,9 @@ from sklearn import metrics
 import os
 import re
 from nltk.corpus import stopwords
+from gensim.scripts.glove2word2vec import glove2word2vec
+from gensim.models import KeyedVectors
+
 
 
 class WordEmbeddings:
@@ -21,6 +24,7 @@ class WordEmbeddings:
         self.testLabelsPath = testLabelsPath
         self.vocabulary = None
         self.model = None
+        self.pretrainedModel = None
         self.train()
 
     def train(self) -> None:
@@ -28,11 +32,14 @@ class WordEmbeddings:
         pathToTrainingLabelsCsv = self.currentPath + self.trainingLabelsPath
 
         data = self.__prepareData(trainingDataDirectory, pathToTrainingLabelsCsv)
-        vectorizer = CountVectorizer(ngram_range=(2, 2))
-        fittedText = vectorizer.fit_transform(data["text"])
-        textFeatures = fittedText.toarray()
+        self.__loadPretrainedModel()
+        print("hehe vect size",self.pretrainedModel.vector_size)
+        vectorizer = Word2VecVectorizer(self.pretrainedModel)
 
-        self.vocabulary = vectorizer.vocabulary_
+        fittedText = vectorizer.fit_transform(data["text"])
+        textFeatures = fittedText #remove .to_array()
+
+        # self.vocabulary = vectorizer.vocabulary_
 
         labels = np.array(data[self.recommendation])
         rf = RandomForestClassifier(n_estimators=200)
@@ -63,7 +70,6 @@ class WordEmbeddings:
             print("Please set path to test labels.")
             return
 
-        print("hehehe",self.recommendation)
         testDataDirectory = "prototype/" + self.recommendation + "/test"
         pathToTestLabelsCsv = self.currentPath + self.testLabelsPath
         testData = self.__prepareData(testDataDirectory, pathToTestLabelsCsv)
@@ -79,9 +85,9 @@ class WordEmbeddings:
         )
 
     def __vectorizeSample(self, data: pd.DataFrame) -> np.ndarray:
-        vectorizer = CountVectorizer(ngram_range=(2, 2), vocabulary=self.vocabulary)
+        vectorizer = Word2VecVectorizer(self.pretrainedModel)
         fittedText = vectorizer.fit_transform(data["text"])
-        textFeatures = fittedText.toarray()
+        textFeatures = fittedText #remove .toarray()
         return textFeatures
 
     def __prepareData(self, dataDirectory, pathTolabelsCsv) -> pd.DataFrame:
@@ -107,6 +113,17 @@ class WordEmbeddings:
         )  # Read 'id' column as a string
         dataFrame = pd.merge(dataFrame, labels)
         return dataFrame
+
+    def __loadPretrainedModel(self,) -> None:
+        print("HER",self.currentPath)
+        glove_path = self.currentPath + '/prototype/glove.twitter.27B.100d.txt' # change to an argument
+        word2vec_output_file = 'MY_MODEL'+'.word2vec'
+
+        glove2word2vec(glove_path, word2vec_output_file)
+
+        self.pretrainedModel = KeyedVectors.load_word2vec_format(word2vec_output_file, binary=False)
+
+        print(self.pretrainedModel.most_similar('diversity'))
 
 
 class Util:
@@ -145,3 +162,47 @@ class Util:
                 new.append(word)
 
         return " ".join(new)
+
+class Word2VecVectorizer:
+    def __init__(self, pretrainedModel):
+        print("Loading in word vectors...")
+        self.word_vectors = pretrainedModel
+        print("Finished loading in word vectors")
+
+    def fit(self, data):
+        pass
+
+    def transform(self, data):
+        # determine the dimensionality of vectors
+        #     v = self.word_vectors.get_vector('king')
+        #     self.D = v.shape[0]
+        self.D = self.word_vectors.vector_size
+
+        X = np.zeros((len(data), self.D))
+        n = 0
+        emptycount = 0
+        for sentence in data:
+            tokens = sentence.split()
+            vecs = []
+            m = 0
+            for word in tokens:
+                try:
+                    # throws KeyError if word not found
+                    vec = self.word_vectors.get_vector(word)
+                    vecs.append(vec)
+                    m += 1
+                except KeyError:
+                    pass
+        if len(vecs) > 0:
+            vecs = np.array(vecs)
+            X[n] = vecs.mean(axis=0)
+        else:
+            emptycount += 1
+        n += 1
+        print("Numer of samples with no words found: %s / %s" % (emptycount, len(data)))
+        return X
+
+
+    def fit_transform(self, data):
+        self.fit(data)
+        return self.transform(data)

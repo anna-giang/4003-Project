@@ -63,7 +63,6 @@ class BagOfWords:
             print("Please set path to test labels.")
             return
 
-        print("hehehe",self.recommendation)
         testDataDirectory = "prototype/" + self.recommendation + "/test"
         pathToTestLabelsCsv = self.currentPath + self.testLabelsPath
         testData = self.__prepareData(testDataDirectory, pathToTestLabelsCsv)
