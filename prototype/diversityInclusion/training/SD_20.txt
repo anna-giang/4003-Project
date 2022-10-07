@@ -1,0 +1,15 @@
+Our consulting client is looking for a Senior/Principal Solution Architect to work for their large telecommunication client.
+Responsibilities
+Leadership role in developing and presenting delivery automation strategy to relevant stakeholders
+Getting approvals from security architecture team for Bot architecture design
+Coordinate with infrastructure team and Product Owners for bot architecture discussions.
+Bot solution design improvement for better reporting and user experience, and for straight-through processing, and low maintenance.
+Mentor Developers to resolve blocked technical issues
+Requirements
+Solid understanding and experience in end to end understanding of Bot Architecture design
+Experience in Working with other Developers to efficiently integrate code modules for successive releases
+Experience working on legacy systems
+Coordinate with test Lead to facilitate test deliverables and secure business signoffs
+Develop deployment strategy for bot solutions for effective bot utilization.
+Train/educate team members on best practices for RPA project delivery like RPA delivery templates
+Manage bot licenses, bot machines and license utilization.

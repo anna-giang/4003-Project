@@ -1,0 +1,31 @@
+About the business
+We are a highly regarded and well established project home builder. We are widely recognized as an industry leader in our sector, we have a unique
+system that gives us a competitive edge over our competitors. We are a progressive company and have plans in place for further growth. We are
+seeking passionate enthusiastic team player to help incorporate these systems in web based apps.
+About the role
+This role consisting of code writing and implementing all of the technical delivery required to complete solutions for the company on the web. Being
+responsible for the ongoing custom application development, performance, maintenance, security and administration of the company's website and
+internal cloud systems such as the company intranet.
+Skills and experience
+To be considered for this position you must have above average skills in the following
+ASP.Net MVC / C# .NET
+HTML/CSS/JavaScript/jQuery
+PHP/MySQL/T-SQL experience
+JQuery / JSON
+Experience with Wordpress
+Experience in the design and development of responsive websites
+Cross-browser testing experience
+Experience in Search Engine Optimisation (SEO)
+Basic website administration experience (cPanel, etc.)
+Experience with Google Analytics
+Relevant Bachelor degree - Angular JS
+
+We will also be assessing candidates on the following criteria:
+Technical background in system design and development
+Ability to translate business requirements into functional software
+Building advanced user interface structures and work flows
+Distribution and management of digital assets
+Working independently as well as in a team
+Motivated and forward thinking
+Strong problem solving skills
+Empathic design principles

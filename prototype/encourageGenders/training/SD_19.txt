@@ -1,0 +1,62 @@
+Reporting to the Demand Manager, you will lead the design of the
+integrated electronic medical record (ieMR) solution for projects as
+approved. You will be working with end-users, multi-disciplinary teams
+and vendors to deliver large-scale, mission-critical solutions based on
+commercial-off-the-shelf (COTS) software.
+Your solutions will support complex workflows across tens of thousands
+of users and multiple Hospital and Health Services. These roles are not
+just about technology and infrastructure. They are about solving
+business problems in complex environments using large-scale, COTS
+software products, as well as multiple integrations to a variety of
+systems.
+You will identify design concerns and options, assess and select options
+based on alignment to end-user needs and architectural goals, guide
+implementers in building the design, build consensus around design
+choices, and document the design and design decisions.
+You will also scope out proposals for new work, and provide order of
+magnitude estimates of costs and the resources required for delivery.
+You will contribute to the development of the architectural direction for
+ieMR, and to transfer of knowledge to and upskilling of internal solution
+architects.
+Are you right for this role?
+To secure this opportunity you will ideally have at least five years of
+experience working as a solution architect. You will have proven
+experience designing for large-scale, complex, mission-critical systems
+based on commercial-off-the-shelf software (COTS) packages, including
+highly interfaced environments.
+You will be a hands-on architect, who has been focused on delivering
+designs rather than on managing the design efforts of others. The
+practice of solution architecture will come naturally to you, and you will
+
+be able to run the design process end-to-end without needing to be
+directed.
+You will have been responsible for engaging with clients and vendors to
+ensure that your designs are fit-for-purpose, and can be effectively and
+efficiently delivered on the software platform. You will be adept at
+presenting technical ideas and concepts to a range of stakeholders.
+
+Additionally, you will have demonstrable experience of delivering end-to-
+end designs.
+
+Essential Criteria:
+Knowledge and experience with Cerner Millennium
+Knowledge and experience with the interfacing and integration
+features of Cerner Millennium
+Experience with the design and document of integration architectures
+required to support systems integrations, especially medical imaging
+and/or outpatient queue management systems.
+Desirable Criteria:
+Knowledge and experience in Healthcare
+Knowledge and experience with Cerner Millennium as it is configured
+for QH as an ieMR
+Professional and tertiary level qualifications in ICT, systems
+engineering or similar
+Benefits of working with eHealth Queensland:
+By joining eHealth Queensland you will work within a fast-paced,
+challenging and supportive environment where every employee plays a
+critical role in our ongoing success.
+You will enjoy a variety of benefits, including:
+Competitive salary + generous superannuation and leave loading
+Flexible working arrangements
+Diverse work culture
+Career training and development

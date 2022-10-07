@@ -1,0 +1,37 @@
+Greater Bank is transforming, adapting and rethinking banking. We are more than just an award-winning financial services organisation, we do the right
+thing by our customers and provide a better way of banking.
+About the role – fixed-term contract
+This is an exciting opportunity to join our solution architecture team as Greater Bank commences its digital transformation journey. With a focus on
+application architecture, software development and systems integration, the Solution Architect will work closely with business stakeholders and
+empowered agile teams to deliver technology solutions that help the organisation achieve its strategic goals – enabling innovative digital capabilities,
+great customer experiences and improved business efficiency.
+What we’re looking for
+As the ideal candidate you will have a strong technical background in software development, systems architecture and design as well as an excellent
+knowledge of database solutions, application services, messaging backbones, application integration and architecture patterns and solutions. You may
+have held an architect role previously or be looking to make the transition from a development / engineering role into architecture.
+Your superior interpersonal, influencing and negotiation skills will aid your ability to engage key stakeholders and customers to achieve business
+transformation within the architecture framework. Key experience required:
+Ability to lead solution designs and work with multiple teams to deliver outcomes
+Strong technical software development background combined with an ability to understand business needs
+Ability to empathise with, collaborate with and influence stakeholders
+Ability to design for appropriate quality in context, balancing current and future needs
+Modern enterprise application design patterns and practices
+Excellent communications skills both written and verbal
+Experience with agile software development methodologies
+Experience with delivering complex projects to solve challenging technical problems
+Degree qualified in an appropriate technical field such as Computer Science or Software Engineering
+Desirable but not essential:
+Experience in banking, finance or payment industries
+Experience with public cloud, containerisation and related technologies
+
+What’s in it for you
+This is a truly rare opportunity to join a high-performing team and work alongside other passionate technologists to deliver an enterprise-defining
+program of work. You will be instrumental in setting architectural standards and delivering the organisation’s mission-critical roadmap. We’ll commit to
+helping you stay hands-on and technically fluent while you also help everyone understand the big picture. We offer you the platform to demonstrate
+your capability and further develop your skills and career within an established challenger brand who are very much focused on our customers.
+We offer you great benefits, including:
+Being part of change that has a meaningful and long-lasting impact on our customers
+Solving challenging and complex technical problems within a high-performing team
+Informal and formal flexible work/life balance
+A great team culture
+Salary packaging, discounted financial products, corporate

@@ -1,0 +1,49 @@
+HCL Technologies is a global transformational enterprise with
+significant presence in Australia and New Zealand. Our offices in
+Sydney, Melbourne, Brisbane, Auckland and Wellington offers an
+integrated portfolio of services including software-led IT solutions,
+remote infrastructure management, engineering and R&D services
+and BPO by leveraging its extensive global offshore infrastructure
+that impact and redefine the core of our clients' business. For more
+information, please visit us atwww.hcltech.com
+Solution Designer / Data Modeler:
+
+Our Enterprise Transformation Services group assists our forward-
+looking customers to develop a roadmap that aligns business
+strategy with IT strategy. The group offers an integrated approach
+towards business processes, technology, application and data to
+deliver end-to-end services that supports transformation across the
+enterprise. Within our ETS practice we are looking for a Senior
+Solution Designer to provide technical and domain expertise to
+both business and IT, covering all aspects of software engineering
+including architecture, design, build, test, release, and support. To
+undertake technical solution design responsibilities within projects
+to ensure that the design is of the highest possible quality within
+the required budget and timeframe.
+• Proven work experience as a Solution/Data Architect with
+• In-depth understanding of Data warehouse principles
+• Experience gathering and analyzing system requirements
+• Expertise in SQL / NOSQL
+• Proven analytical skills & Problem solvning skils
+• Expertise in Data modelling, dimensional modeling using tools
+like Erwin
+• Prior work experience in Hadoop environments
+• Should have provided solutions in large Data warehouse
+environments
+
+Responsibilities include:
+• Perform Impact analysis on existing systems based on business
+requirements
+• Data modelling, Design conceptual and logical data models
+• Develop data solutions to store, transform and retrieve data in
+efficient way
+• Present Design solutions in design governance forums and seek
+approvals
+• Improve system performance by conducting tests,
+troubleshooting and integrating new elements
+
+HCL has been voted an employer of choice in many countries in
+the world. They are a market leader in developing and supporting
+pathways for personal growth where you can build on your
+professional, technical/functional expertise thru ongoing training
+and self-learning programs.

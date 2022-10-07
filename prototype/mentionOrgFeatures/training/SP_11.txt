@@ -1,0 +1,40 @@
+Senior Software Developer - Appian
+The Senior Appian Developer will perform system analysis, design,
+implementation, enhancement and support enterprise applications with
+Appian BPM platform. They will also provide technical leadership,
+advice, support and mentoring to other team members in Appian BPM
+suite technologies.
+About you:
+Experience with System integration, Mobile application, Portal
+application and extended interface applications development using
+Appian suite.
+Appian Designer (or above) certification is must.
+Have worked on two or more Appian BPM Implementations
+Strong problem solving and design skills Appian-specific BPM
+development
+Good understanding of Appian architecture, best practices and BPMN
+standards.
+Experience in Appian plug-in development, system integrations and
+production support in in-house and cloud hosted environments.
+Minimum 3 years of experience in design, implement, enhance and
+support of BPM based solutions with proven skills in the following
+technologies
+Appian 18.x, Appian 19.x, Appian 20.x
+JBoss, JDK 1.8, JDBC, WebSphere
+MySQL
+Web Services, SOAP/REST, HTML, CSS, JavaScript, XML, JSON
+JIRA, Confluence
+UX design, SAML, OAuth Framework.
+About the role:
+Work with business client to prioritize business requirements, define
+and plan releases/sprints. Perform story point estimation and define
+acceptance criteria.
+Participates in conversion and documenting of business requirements
+to technical requirements.
+Test changes to user interface, application functionality and database
+access as required by the business client.
+Coordinate closely with other developers to ensure proper
+implementation of system specifications.
+Support data migration, loading and conversion between data stores.
+To apply please send your resume by following the links below or
+contact

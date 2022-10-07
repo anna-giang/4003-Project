@@ -1,0 +1,28 @@
+About the business
+Australia's leading digital asset exchange, is seeking an experienced mobile app developer (Android / iOS / React Native) to lead the
+development of our mobile application.
+About the role
+As the mobile app developer, your main responsibility will be the hands-on development of our mobile product, working closely with the design and
+product team you will implement efficient, intuitive, modular and testable code across the mobile codebase, while also providing input into roadmap
+decisions.
+Benefits and perks
+The benefits of working in such a progressive, successful business is an attractive salary + performance bonus, well being allowance & flexible working
+arrangements.
+Skills and experience
+You will be involved throughout all stages of the software development process, including consultation with clients, having input on designs,
+implementation, testing, release, and post-implementation support.
+Ideally, we are looking for a React Native developer or a strong iOS/Android developer that is looking to move to React Native.
+Partnered with exceptional stakeholder communication skills you will have:
+5+ years experience with iOS and or Android mobile app development
+Experience using either Kotlin and / or Swift, with at least 2 years of commercial experience
+Strong commercial experience in React Native / React programming
+Experience in Typescript / Javascript
+Worked with JSON APIs
+Experience using git & git workflows in a team environment
+Nice to Haves
+Blockchain programming or API experience
+TypeScript
+AWS
+Full Stack Experience
+UI and web development skills and experience
+You have worked in a high security, financial environment

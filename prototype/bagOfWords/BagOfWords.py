@@ -101,7 +101,9 @@ class BagOfWords:
             .apply(lambda x: Util.clean_text(x))
             .apply(lambda x: Util.remove_stopwords(x))
         )
-        labels = pd.read_csv(pathTolabelsCsv)
+        labels = pd.read_csv(
+            pathTolabelsCsv, converters={"id": str}
+        )  # Read 'id' column as a string
         dataFrame = pd.merge(dataFrame, labels)
         return dataFrame
 
@@ -113,7 +115,7 @@ class Util:
     def loadTextFromFile(directory, filenames, docs):
         trainingDirectory = Util.currentPath + "\\" + directory
         for filename in os.listdir(trainingDirectory):
-            filenames.append(int(filename[:-4]))  # Removes the .txt from the filename
+            filenames.append(filename[:-4])  # Removes the .txt from the filename
             with open(trainingDirectory + "\\" + filename, "r") as file:
                 text = file.read()
             docs.append(text)

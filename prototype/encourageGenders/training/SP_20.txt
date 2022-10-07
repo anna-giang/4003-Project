@@ -1,0 +1,47 @@
+Full Stack Developer
+Our Purpose is the same today as it was when we were
+founded 160 years ago, and every day, we work hard to
+bring our company purpose to life; feeding into the success
+of our customers and communities and not off it.
+As the Full Stack Developer in our Digital Domain within the
+Business Enablement division you will be focussed on
+supporting the whole Bank to achieve its goals and
+objectives through the appropriate use, delivery and
+management of technology. The Domain includes cross-functional Agile squads that are responsible for the end to end delivery of service to our customers. As part of a squad
+you would be responsible for the design, development,
+testing, automation and support of their product.
+As the Full Stack Developer, you will:
+Develop, test and deploy code to a high standard in a
+variety of programming environments
+Develop in a DevOps, CI/CD environment
+Contribute to and alignment to ongoing evolvement of
+principles, practices and patterns
+Promote new ideas to ensure ongoing focus on
+continuous improvement
+To be successful in the role, you'll have experience in the
+following:
+Demonstrated experience as a full stack developer
+Broad technical experience in coding, DevOps, API’s and
+micro-services
+Proven experience in cloud native application
+development (react and similar frameworks or JavaScript)
+Experience in developing API’s and micro services
+(node.js, hapi, joi, swagger)
+Experience with applications that are hosted in Cloud
+Foundry or Kubernetes
+In addition, you will benefit from experience with
+TypeScript, NoSQL databases, AWS, Azure and GCP
+In addition, we’re looking for someone that values Agile
+principles, thinks outside the box and is willing to exchange
+ideas with peers.
+A career with  will see you
+become part of the team, your contribution will be valued,
+and you’ll get all the assistance you need to reach your full
+potential and achieve your objectives.
+We also support flexible work arrangements, so talk to us
+about how this role could be made flexible so you can better
+balance your individual needs
+If you’re excited to be part of an organisation with strong
+values and a community focus - then this could be the role
+for you! Apply now.
+To find out more about working at or to view other opportunities visit

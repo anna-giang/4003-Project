@@ -1,0 +1,40 @@
+About the role
+This role is responsible for consulting with customers and internal globally-dispersed technology teams to create solution designs based on customer
+business requirements. The role has technical oversight of software solutions during the SDLC process and within the context of innovation and PoC
+activities. In addition, you will be a contributor to new enterprise-wide integration projects. This role is based in Melbourne CBD and is full-time and
+permanent.
+Key responsibilities include:
+Consult with and articulate architectural design and patters to stakeholders (both internal and external)
+Hands-on programming – code Proof of Concepts and implement architectural designs
+Architect new solutions within a public cloud environment, leveraging tools and services to achieve a best of breed solution
+Focus on cost optimisation and application efficiency running on cloud infrastructure
+Provide input into the overall innovation and technical pipeline in tight collaboration with our product roadmap and business goals
+Create technical documentation and related knowledge assets
+Work within a SAFe (Scaled Agile Framework) release train, promotion design and engineering practices through the portfolio
+Recommend paths for development and delivery of technology stacks.
+
+Salary package
+This role’s salary package includes a base salary range between $120,000 to $140,000 plus superannuation and bonus.
+
+About you
+The ideal candidate possesses:
+Demonstrable programming expertise in various programming languages, in particular: ASP, ASP.NET, SQL, C#, Javascript, MVC
+Strong experience in Azure tools and services, Cloud architecture, refactoring applications to leverage cloud services, and optimise hosting and
+running costs of applications
+The willingness to be hands on (on the tools and in the code) in order to successfully deliver the outcomes of this role
+Experience re-architecting legacy products and monolithic applications into modularised service-based architecture (advantageous)
+A degree qualification (ideally in Computer Science or Systems Analysis – desirable)
+
+Strong communication and influencing skills, with the ability to articulate architectural design and patterns to customers both internal and external.
+
+About us
+Tax software is one of the most rapidly growing tech sectors Australia-wide, and our team reflects this fast-evolving landscape – we are a fun and
+dynamic group. In APAC, the Enterprise Software segment operates like a small, agile business within the wider global enterprise of Wolters Kluwer.
+Think tax is boring? Not here.
+
+About our values
+
+We are a company that lives and breathes its values: Focus on Customer Success, Make it Better, Aim High & Deliver and Win as a Team. We believe
+in promoting and developing our people, and provide a suite of benefits to make your life easier both at work and play.
+We pride ourselves on our culture, which promotes inclusion, accessibility and flexible working arrangements. You can learn more about what we do by
+visiting our website: www.wolterskluwer.cch.com.au

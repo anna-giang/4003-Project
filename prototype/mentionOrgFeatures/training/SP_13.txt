@@ -1,0 +1,38 @@
+We’re looking for a Software Developer to join us.
+We are looking to add another Software Developer to the team focused-on Database Governance and developing software in line with business
+requirements.
+The successful candidate will be a good communicator, both written and verbal, able to prioritize work, highly organized, have a high level of computer
+system knowledge and IT literacy with the right mix of experience and the willingness to learn new things.
+You’ll be working for an ethical fundraising agency with a range of amazing charities from the well-known, respected brands to the small, just as
+important causes.
+Experience
+Experience is preferred, so if you have the majority of the technical skills required to perform the role as well as solid, practical experience in software
+development role, we’d love to hear from you.
+Key technical ‘must haves’ are a sound knowledge of Node.js & JavaScript, high level of working knowledge of SQL, HTML & CSS, a working
+understanding of REST API principles, experience with Hypertext Translation Protocol, the ability to work with GIT – distributed version control system,
+ability to write code securely, a practical experience of cyber security concepts, threats and secure design principles and experience with dev-ops
+principles (Agile / CI/CD).
+If you have any competencies and experience in the following it will also be considered advantageous - Front-end framework/libraries e.g. React or
+View.js, asterisk, vicidial, PCI DSS, OWASP top 10 security risks and docker / containerization.
+As one of our Software Developers, the key to success is being a highly organized person who is responsible for development sprints, bug fixes,
+database governance and maintenance and various other regular tasks to help us maintain a competitive edge in the market.
+We want a problem solver, with a positive can-do attitude, with the right mix of experience and nous. We want someone who is up for the challenge of
+working in a fast-paced environment, and who loves getting things done with a real focus on accuracy.
+Skills
+Exceptionally personable, strong attention to detail, highly technical and computer literate, good communicator, resilient, proactive, motivated by seeing
+results and pride in the quality of what you do.
+Conditions
+Starting depending on experience. We have a strong focus on training and career progression, so if you’re ambitious and driven then you’ll be
+supported in achieving your goals.
+We are located in Brendale, North Brisbane, we are very close to public transport and have free car parking.
+The working hours are Monday – Friday, 37.5 hours a week, with reasonably flexible daytime hours.
+How to Apply
+Email your application
+Phone the office to find out more
+Position description is available upon request.
+Your application must consist of:
+Max one-page cover letter letting us know why you’re the best fit for the role.
+Max two-page resume outlining technical skills, experience and education.
+Max 400 words outlining an example of where you had to solve a software or database problem that involved planning, development,
+communication and problem-solving nous to get the right result.
+The application must be supplied in the one PDF document.
