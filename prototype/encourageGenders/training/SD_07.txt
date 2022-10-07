@@ -1,0 +1,15 @@
+As a Senior Software Engineer you will take ownership of the design and development of software that integrates the data from an advanced suite of
+sensors into a responsive, reliable and safe control system.
+You will work with our Systems, Mechanical and Electronics Engineering teams to engineer highly regarded products.
+Skills
+Commercial experience with C, C++, or Java programming languages.
+Strong verbal and written communication skills.
+Able to solve challenging technical problems; and
+Attention to detail.
+Desirable Skills
+Experience with engineering processes such as CMMI, or SPICE or similar methodologies; and
+Embedded or real-time software development.
+Qualifications
+Degree in Software Engineering, Computer Science or related field.
+Post graduate qualifications in Engineering viewed favorably.
+Experience in a similar role.

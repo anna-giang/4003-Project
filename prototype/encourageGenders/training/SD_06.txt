@@ -1,0 +1,45 @@
+Your focus will be to develop integration solutions to achieve end-to-end
+delivery of software solutions that may cross multiple network service
+provisioning and service assurance systems. Solutions could include
+developing new systems in-house or using COTs products, in either
+case you will be responsible for providing technical leadership to project.
+Your success will come from your ability to work across divisions,
+business units and teams, building strong working relationships with
+peers across the business and working collaboratively to deliver
+customer focused solutions. You will be expected to understand and
+follow project methodology, by delivering BAU changes, enhancements
+and configuration change solutions that are technically sound.
+Skiils/Main accountabilities and activities of the role includes:
+• Liaise with business and business analyst to understand the
+requirements and translate them into a technial spec including providing
+input into Hardware, Operating Systems (Unix, Linux & Windows) ,
+databases (Solid DB, Oracle, Sybase, MySQL) designs.
+• Provide technical leadership on projects, guiding developers,
+performing code reviews and ensuring the quality of solutions being
+implemented.
+• Solid understanding of enterprise open source technologies such as
+JBoss Application Server, Messaging systems, rules and business
+process engines, modern web application frameworks such as HTML5,
+JavaScript MVC frameworks, CSS and technologies such as
+REST/SOAP, Oracle PL/SQL, MySQL, mobile development in iOS,
+Android and SDLC/RAD/Agile Methodology
+• Work with Project Managers, Business Analysts, other Solution
+designers & Architects to deliver large projects.
+• Provide input into Architecture road maps, working with IT and
+Networks architects and Solution designers.
+• Define the testing scope and strategy. Review the documents, verify
+the test cases and results, automation of testing by the development
+team to improve the overall quality of systems/code.
+• Technical expertise support for services as well as vendor liaison
+regarding both problems and future enhancements. Provide support to
+operations during major incidents.
+• Review, update and approve of all technical related systems
+documentation using an approved repository and process.
+• Provide assistance to operations on Root Cause Analysis on major and
+repetitive faults as requested by operations. This can include working
+with vendors / users.
+• Performance and capacity monitoring
+• Maintain a customer focused mindset
+• Oversee and provide leadership to vendor provided resources on
+projects and activities; this can include both onshore & offshore
+resources.

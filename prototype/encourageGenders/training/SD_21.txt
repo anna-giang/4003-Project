@@ -1,0 +1,15 @@
+Job Requirement
+The Enterprise Architect (EA) will drive common approaches and deliver an architecture that supports business needs for the company and the whole
+of government strategic direction. EA will be responsible for the development of company’s Technology and Information Strategies and related
+blueprints, and roadmaps. EA will need to develop the future state architecture based of existing work. Other documentation required during the
+engagement includes the development of an IT Apps and Digital Roadmap, refinement of the architecture principles, plans and strategies, and an
+opportunity and trends environment scan. The EA will also provide advice and guidance to our newly formed technical review board and will work
+closely with solution architects.
+Essential Criteria:
+Demonstrated experience in the development of Enterprise Architecture in government companies.
+Ability to undertake appropriate reviews and approval processes required to achieve acceptance and approval of future state architecture and
+other required decisions.
+Demonstrated experience in developing technology information and data strategies in government companies.
+Significant experience communicating, building and maintaining relationships at with business lines and Senior Executive levels.
+Experience in developing cost models and provision of advice on cost management.
+Application of whole of government policies such as Digital Service Standard and Information Security Manual (ISM).
