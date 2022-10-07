@@ -24,7 +24,7 @@ class BagOfWords:
         self.train()
 
     def train(self) -> None:
-        trainingDataDirectory = "prototype/" + self.recommendation + "/" + "training"
+        trainingDataDirectory = self.recommendation + "\\" + "training"
         pathToTrainingLabelsCsv = self.currentPath + self.trainingLabelsPath
 
         data = self.__prepareData(trainingDataDirectory, pathToTrainingLabelsCsv)
@@ -63,7 +63,7 @@ class BagOfWords:
             print("Please set path to test labels.")
             return
 
-        testDataDirectory = "prototype/" + self.recommendation + "/test"
+        testDataDirectory = self.recommendation + "\\" + "test"
         pathToTestLabelsCsv = self.currentPath + self.testLabelsPath
         testData = self.__prepareData(testDataDirectory, pathToTestLabelsCsv)
 
@@ -113,10 +113,10 @@ class Util:
 
     @staticmethod
     def loadTextFromFile(directory, filenames, docs):
-        trainingDirectory = Util.currentPath + "/" + directory
+        trainingDirectory = Util.currentPath + "\\" + directory
         for filename in os.listdir(trainingDirectory):
             filenames.append(filename[:-4])  # Removes the .txt from the filename
-            with open(trainingDirectory + "/" + filename, "r") as file:
+            with open(trainingDirectory + "\\" + filename, "r") as file:
                 text = file.read()
             docs.append(text)
 
