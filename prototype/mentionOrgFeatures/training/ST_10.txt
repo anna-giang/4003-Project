@@ -1,0 +1,62 @@
+Senior Test Analyst
+Impactful work that helps make a difference to the Australian
+people
+Opportunity to work on a high impact transformation; long term
+contract
+Access to a wide-range of staff benefits
+Do work that makes a difference
+Opportunity for an Senior Test Analyst to work on a highly visible
+multi-year program involving ground up development of a complex
+SQL multidimensional data warehouse, reporting and analytics
+solution for APRA-sourced data which is used to analyse nationally
+critical data in the Australian financial system.
+You will be responsible for testing within a cross-functional, mature
+Agile team, with a strong focus on test automation to support
+delivery of the Transformation program which seeks to replace an
+existing data warehouse. The role requires taking an active part in
+providing testing support, maintaining and improving test processes,
+tooling and outputs.
+Your team
+
+You will work closely with mature and high performing cross-
+functional Scrum teams within the RBA and with APRA. The work
+
+environment is collaborative, friendly and supporting with adequate
+support to work from home.
+Your background
+To be successful in this critical role you will possess;
+Demonstrated practical experience and knowledge in Java and/or
+SQL, Selenium and working in a CI/CD, BDD environment.
+Proven experience in use of test automation tools and
+frameworks.
+Advanced knowledge and experience across all phases of testing
+on data warehouse and/or business analytics projects
+Previous working experience in Agile Environment and its
+ceremonies.
+Help the team to achieve sprint goals by testing the new and
+enhanced systems
+Degree in IT, business, finance or other relevant discipline is
+highly desirable.
+Strong communication, documentation and report writing skills.
+Your development & career
+Working for an organisation that truly makes a difference to the
+Australian people, we can offer development and career
+opportunities in a collaborative environment that supports people’s
+growth, wellbeing and promotes flexibility.
+Why RBA?
+The RBA pursues national economic policy objectives and
+undertakes a range of associated activities in financial markets and
+banking. It also issues Australia's banknotes and operates
+infrastructure critical to the payments system, all of which contributes
+to the welfare of the Australian people.
+Our people have a critical role to play in achieving these objectives,
+whether directly or in a supporting capacity. As a values driven
+organisation, our people conduct themselves with a high degree of
+integrity, while striving for excellence in the work they perform and
+the outcomes they achieve. We encourage intelligent inquiry, we
+treat one another with respect, while promoting the public interest in
+our efforts.
+The Reserve Bank of Australia is an equal opportunity
+employer. We are committed to creating a diverse and inclusive
+workplace and encourage applications from experienced
+candidates seeking workplace flexibility.

@@ -1,0 +1,16 @@
+With many organisations going through hardship, it may be time to think about stability in your role.
+A leading service provider have been ramping up there search to find Enterprise and Solution Architects that have experience delivering against either
+the Australian Defence Architecture Framework (DAF) or the US DoDAF. If you are TOGAF certified this is ok too.
+You will Provide advice and guidance ensuring adoption and adherence to information assurance architectures, strategies, policies, standards and
+guidelines.
+Key Responsibilities:
+Being a technical leader, serving as a liaison among internal stakeholders, vendors, technical resources, and project stakeholders;
+Review of system designs to ensure use of contemporary technology; efficient use of resources, and integration of multiple systems;
+Required Technical Skills:
+Experience delivering against either the Australian Defence Architecture Framework (DAF) or the US DoDAF
+Detailed infrastructure knowledge (networks, storage & compute) at an enterprise scale
+Software, systems or data design
+Experience with RSA Archer
+Expertise in On-Premises and cloud environments- Can define architectures covering on-premises, cloud, and hybrid cloud environments
+Industry framework certification such as TOGAF, Open Group etc. is a plus
+Minimum NV1 clearance

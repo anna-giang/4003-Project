@@ -1,0 +1,30 @@
+About the business
+We design and develop trailblazing technology, we're also the dev house that every developer wants to work for, so if you think you've got game, we
+want you.
+About the role
+You will collaborate closely with Software quality specialists, Developers, Product Owners, and different influences in the internal organization to
+nurture a functional and automation mindset.
+Experience
+Strong QA professional with functional skills and understanding of test automation, that will enable you to craft functional testing strategies from
+scratch, in line with the business requirements and produce scenarios that can be replicated across different teams.
+From a software quality perspective, the ultimate goal is to provide a frictionless, and bug-free user experience for all products worked with.
+Role Competencies
+Well versed in Testing Techniques and Methodologies.
+Good understanding of the SDLC.
+Ability to create Test Plans and Test Cases.
+Ability to follow Testing standards and processes.
+Execution of Tests, feedback, escalation and reporting.
+Keen ability to drive quality improvement.
+Ability to configure and troubleshoot testing environment issues.
+Identify and raise Project / Product risks.
+Experience working in Agile Teams.
+Good collaboration and communication skills.
+Demonstrated experience with API Testing, using tools such as Postman, SoapUI.
+Demonstrated experience with Web Application Testing using tools such as Fiddler, Charles and browser dev tools.
+Demonstrated experience with SQL; ability to write / execute scripts / validate data.
+Demonstrated experience with Test Management tools such as TestRail, Azure DevOps etc.
+Good understanding to troubleshoot Operating Systems, Browsers and Infrastructure via Web Servers, Database Servers, Networking etc.
+Ability to debug MS SQL using tools like SQL Profiler (Advantageous).
+Experience with Mobile Web testing (Advantageous).
+Experience with Continuous Integration / Delivery, DevOps (Advantageous).
+Experience with automated testing techniques and tools (Advantageous).

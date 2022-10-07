@@ -1,0 +1,67 @@
+Quality Coach
+
+Job Overview
+As a Quality Coach at Wargaming Sydney, you will play an integral part
+of driving our mission to empower our development teams to raise the
+bar of quality for the diverse range of innovative video game products
+we ship to millions of players around the world.
+Reports To
+QA Lead
+What will you do?
+Embedded in an Agile team you, will be working to identify and mitigate
+risks to successful delivery, grow the teams quality mindset, smooth out
+
+process issues, coach developers to test effectively and using a data-
+oriented approach, prove the quality of our products. In addition, you will
+
+at times get hands-on with our products performing testing and
+improving our automation.
+Alongside this, you will also create tooling to improve test-ability of the
+product and to allow us to have deep insight on our products quality to
+show that we are building the right thing, building it right and supporting
+it right.
+What are we looking for?
+Context-driven Test techniques: You are knowledgeable of modern
+test practices such as heuristic based software modelling, and have
+excellent testing skills.
+Coaching/Influencing skills: You have experience mentoring/coaching
+others in good quality practices, are able to skill them up effectively
+and love pairing up with others to help them test.
+Automation experience: You have experience creating automated
+regression checks , working with CI/CD systems, and are proficient in
+a programming language.
+Big picture analysis: You are able to contextually analyse a project for
+risks and design strategies to mitigate them including project, product
+and process related risks.
+Facilitation skills. You are great at bringing those around you together
+to address quality concerns
+Passion for the craft: You enjoy the testing craft and you regularly
+attend test community events and learn new testing techniques
+What additional skills will help you stand out?
+A Bachelor's Degree in Computer Science or related field
+Experience working in the games industry
+Linux / Android / iOS platform experience
+Game engine experience
+About Wargaming:
+Wargaming Sydney is one of the largest AAA development studios in
+Australia, and is the Aussie branch of Wargaming.net. We are the
+creators of the award-winning BigWorld Technology which powers
+Wargaming’s massively popular online games. The team currently works
+on new IP, established titles, and advanced technologies.
+We are a group of highly talented individuals who have come together to
+create the Wargaming Sydney family.
+At Wargaming Sydney we offer all our employees a unique bespoke
+benefits package which includes options for subsidised private health
+care, fitness/gym memberships and entertainment budgets. We also
+offer breakfast every day, a weekly company-provided lunch, fully
+stocked gaming room and much, much more...
+We’re an equal opportunity employer and believe in creating a
+workplace where all our people feel supported and included. We’ve zero
+tolerance for workplace bullying, discrimination, and harassment. We
+encourage applications from those who are traditionally
+underrepresented in the technology industry, and all applicants will
+receive consideration equally.
+Take a look at our website – www.wargaming.com
+
+Please see Wargaming Candidate Privacy Policy for details on how
+Wargaming uses your personal data.

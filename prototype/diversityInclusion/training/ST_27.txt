@@ -1,0 +1,29 @@
+Senior Test Analyst - CRM & CMS
+12 month initial contract +
+Government client
+CMS project
+Our client is looking for an experienced Senior Test Analyst to join on an
+initial 12 month contract with a Government client working on a large
+CMS project based in Melbourne CBD (initially WFH).
+The ideal candidate will have the following experience;
+Working in a sizeable team within an agile and traditional delivery,
+government environment (preferably Victorian Government)
+Testing phases i.e. integration, acceptance etc.
+Delivery of web based, transactional portal applications, with public
+userbases
+Integration with varying technologies of back-end systems
+Exposure to CRM applications, payment gateways, cloud-hosted
+applications and infrastructures
+Development and maintenance of test cases and scripts that ensure
+comprehensive testing of the requirements utilising approved test
+tools
+Ensuring traceability of test cases back to requirements and delivery
+of the end to end requirement traceability matrix
+Demonstrated Agile/Scrum delivery experience
+Demonstrated experience in developing a structured testing process
+for ICT CRM projects
+Strong knowledge of toolsets including Jira, Confluence, ALM etc.
+Ability to communicate with both technical and non-technical
+stakeholders
+Demonstrated linkage/familiarity with other State government
+departments

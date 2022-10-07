@@ -1,0 +1,34 @@
+BLACKROC is excited to be working with one of the leading managed
+service providers in Australia. They are currently looking to expand due
+to renewed corporate contracts taking them through to 2022.
+We are looking for a Solutions Architect to join our clients Platform team.
+You will be responsible for designing, architecting, and implementing
+secure, distributed, scalable, APIs for our growing company.In this role,
+you will utilise your experience to drive our largest and most complex
+projects.
+You are a subject matter expert across the entire software development
+lifecycle, including research, design, testing, and deployment.
+You invest time up front on solid design and collaboration with others
+before jumping into code. You may lead by example, helping to mentor
+other engineers on the team. You have a combination of coding prowess
+and technical acumen that will significantly enhance the features and
+applications our platform provides.
+Responsibilities:
+Responsible for the broad AWS cloud strategy within multiple
+customers, helps the customer articulate and navigate their cloud
+journey working with them to ensure , and is accountable for ensuring
+tactical activities and point projects are in alignment with the overall
+technical strategy
+Providing architectural design input into next gen cloud solutions
+leveraging IaaS and PaaS
+Architecting and driving adoption of DevOps processes and tools
+Key Skills:
+Hands-on experience with Amazon Web Services (e.g. AWS Lambda,
+AWS API Gateway, Amazon ECS, Amazon DynamoDB, AWS
+CodeStar, AWS CodePipeline, AWS Kinesis etc.)
+Familiarity with the DevOps philosophy, practices, and tools
+Experience architecting infrastructure solutions using both Linux/Unix
+and Windows with specific recommendations on server, load
+balancing, HA/DR, & storage architectures
+Strong client facing and consulting experience. Influencing senior
+stakeholder and working in large complex enterprise environments
