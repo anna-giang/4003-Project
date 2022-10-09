@@ -42,7 +42,7 @@ Conduct functional testing of modifications and sub-processes
 during sprints.
 We are looking for someone who can work unsupervised and within
 a collaborative team using Agile, show initiative and flexibility with a
-“can do” attitude.
+can do attitude.
 Provide / manage post project implementation reporting,
 documentation and training.
 Research opportunities and solutions where IT projects can improve

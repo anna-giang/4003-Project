@@ -10,7 +10,7 @@ continuous improvement initiatives
 Work in a fast-paced delivery environment
 Toyota Finance Australia is the country's largest automotive
 nancier. We are a wholly owned subsidiary of Toyota Financial
-Services Corporation (TFSC) of Japan. With over 30 years’
+Services Corporation (TFSC) of Japan. With over 30 years
 experience in the Australian market, an extensive network of
 regional of
 
@@ -38,7 +38,7 @@ Toyota a successful, global company. We are about more than
 vehicles and vehicle
 
 nance – we are about achieving success
-in business the ‘right way’ through “The Toyota Way” philosophy,
+in business the right way through The Toyota Way philosophy,
 while continuing to support people and their communities. Our
 commitment to Continuous Improvement and Respect for
 People mean our leaders support individual and team
@@ -78,7 +78,7 @@ architects, particularly on large, complex projects, and
 balance current and new architecture and resources in the
 context of competing business demands. Specify an optimum
 design for subsequent development
-You’ll be successful in this role if you have:
+Youll be successful in this role if you have:
 Proven extensive relevant experience in the IT industry with
 focus on a role as an Enterprise Architect
 Experience with Digital Experience Platforms, Customer

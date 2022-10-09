@@ -1,0 +1,34 @@
+The Company
+
+We are a technology firm that focuses on financial services and education. As the Testing Analyst, you will be responsible for creating and documenting
+Test Strategies, Test Plans, Test Scripts, Test reporting, Test Designs (Test Cases and Test Data) and Test Execution Results. This unique role offers
+you the opportunity to be part of a new team for both new and existing projects.
+The Role
+You will be responsible for developing and implementing testing solutions for new and existing projects. This role involves designing and improving
+methodologies to ensure systems can be migrated from a development environment through to implementation.
+You will be responsible for ensuring the implementation of testing methods align with best practice testing frameworks which encompass strategies,
+policies, processes, templates, tools and standards. This will include testing in agile projects and using manual and automation tools. You will provide
+
+advice and recommendations on all aspects of test planning and execution, review technical and business design requirements, and define the risk-
+based and requirements-based testing scope to ensure the solution is fit for purpose.
+
+Experience Required
+The successful candidate will have previous testing experience developing project test strategies, test products and test cases within a medium to the
+large project environment. Also with the following attributes.
+3 - 5 years' experience in agile software QA and testing
+Strong knowledge of writing test cases.
+Strong analytical skills
+Design and execute reusable test procedures, cases and scripts.
+Ability to acquire business knowledge of various business applications by utilising test plans.
+Apply test techniques and processes for the planning, design, preparation and execution of tests.
+Ensure all allocated test cases and test scripts are executed and have tractability by utilising testing tools (such as Gitlab) for bug and defect
+tracking.
+Good oral and written communication skill, stakeholder interaction skill and collaborative team working.
+
+The Offer
+Competitive remuneration package
+The new office located in the Heart of Chatswood CBD
+Global exposure across the business
+
+If you think you have the above skills and experiences, please send your Cover Letter and Resume to address above selection criteria and
+demonstrate your suitability for the position.

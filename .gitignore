@@ -2,4 +2,4 @@
 glove.twitter.27B.100d.txt
 lexvec.commoncrawl.ngramsubwords.300d.W.pos.vectors
 .DS_Store
-__pycache__	
+**/__pycache__/**
