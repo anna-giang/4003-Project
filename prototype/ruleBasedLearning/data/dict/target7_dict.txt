@@ -1,0 +1,16 @@
+permanent
+temporary
+contract
+full-time
+full time
+fulltime
+part-time
+part time
+parttime
+roster
+fixed-term
+fixed term
+casual
+apprentice
+trainee
+temp

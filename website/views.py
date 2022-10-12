@@ -1,5 +1,8 @@
 from flask import Blueprint, render_template, request, redirect, url_for
 
+from prototype.ruleBasedLearning.ruleBasedLearning import *
+
+
 views = Blueprint('views', __name__)
 
 
@@ -17,12 +20,14 @@ def tool():
         # -- do we have any requirements for text like certain length?
         # do some stuff with the job ad
         # ---
-        # the 1 or 0 is true/false if recommendation met
-        result = {'diversity': 1, 'list': 0, 'workHr': 1, 'roster': 0,
-                  'encourage': 0, 'tech': 1, 'lang': 0, 'attributes': 0}
+        results = process(job_ad)
+
+        # number is the count of how many found
+        data = {'diversity': 1, 'list': 0, 'workHr': results[0], 'roster': results[2],
+                'encourage': 0, 'tech': results[5], 'fem': results[4], 'masc': results[3], 'attributes': results[1]}
         # calculate how many recommendations satisfied %
         perc = 30
-        return render_template("result.html", result=result, perc=perc)
+        return render_template("result.html", result=data, perc=perc)
     return render_template("tool.html")
 
 

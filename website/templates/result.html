@@ -7,7 +7,9 @@ content%}
       <h1 class="display-4 p" align="center">Good job!</h1>
       <!-- If x amount of recommendations met = Good job otherwise Nice try for example -->
       <p align="center" class="lead">
-        You satisfied {{ perc }}% of the gender inclusivity recommendations!
+        You satisfied {{ perc }}% of the gender inclusivity recommendations! </p>
+        <p align="center">Number of feminine words used: {{ result.get('masc') }} <br>
+          Number of masculine words used: {{ result.get('fem') }}</p>
       </p>
       <br />
       <div class="progress" id="progress">
@@ -41,7 +43,7 @@ content%}
       </div>
       <div>
         <p>
-          {% if result.get('list') == 1 %}
+          {% if result.get('list') > 0 %}
           <i
           class="far fa-check-circle fa-lg pr-3"
           style="color: limegreen"
@@ -54,7 +56,7 @@ content%}
       </div>
       <div>
         <p>
-          {% if result.get('workHr') == 1 %}
+          {% if result.get('workHr') > 0 %}
           <i
           class="far fa-check-circle fa-lg pr-3"
           style="color: limegreen"
@@ -67,7 +69,7 @@ content%}
       </div>
       <div>
         <p>
-          {% if result.get('roster') == 1 %}
+          {% if result.get('roster') > 0 %}
           <i
           class="far fa-check-circle fa-lg pr-3"
           style="color: limegreen"
@@ -82,7 +84,7 @@ content%}
     <div class="col">
       <div>
         <p>
-          {% if result.get('encourage') == 1 %}
+          {% if result.get('encourage') > 0 %}
           <i
           class="far fa-check-circle fa-lg pr-3"
           style="color: limegreen"
@@ -95,7 +97,7 @@ content%}
       </div>
       <div>
         <p>
-          {% if result.get('tech') == 1 %}
+          {% if result.get('tech') < 3 %}
           <i
           class="far fa-check-circle fa-lg pr-3"
           style="color: limegreen"
@@ -121,7 +123,7 @@ content%}
       </div>
       <div>
         <p>
-          {% if result.get('attributes') == 1 %}
+          {% if (result.get('masc') + result.get('fem') ) == 0 %}
           <i
           class="far fa-check-circle fa-lg pr-3"
           style="color: limegreen"
@@ -129,33 +131,33 @@ content%}
           {% else %}
           <i class="far fa-circle fa-lg pr-3" style="color: grey"></i>
           {% endif %}
-          Avoid use of masculine/feminine attributes
+          Avoid use of masculine/feminine language
         </p>
       </div>
     </div>
   </div>
 
     <div class="row">
-      <div class="col py-3">
-        <h4>Suggestions</h4>
+      <div class="col py-4">
+        <h4>Suggestions and Data</h4>
         <br />
-        <!-- I dont think the elifs are working -->
-        {% if result.get('list') == 0 %}
+        {% if result.get('list') > 0 %}
         <p>- Reduce requirements into a concise list of 3 - 5 prioritised skills.</p>
-        {% elif result.get('diversity') == 0 %}
+        {% endif %}
+        {% if result.get('diversity') == 0 %}
+        <p>- Show encouragement and value of diversity in your job advert</p>
+        {% endif %}
+        {% if result.get('tech') > 20 %}
         <p>- Reduce number of technical words used in your job advert.</p>
-        {% elif result.get('tech') == 0 %}
-        <p>- Reduce number of technical words used in your job advert.</p>
-        {% elif result.get('workHr') == 0 %}
-        <p>- Reduce number of technical words used in your job advert.</p>
-        {% elif result.get('roster') == 0 %}
-        <p>- Reduce number of technical words used in your job advert.</p>
-        {% elif result.get('encourage') == 0 %}
-        <p>- Reduce number of technical words used in your job advert.</p>
-        {% elif result.get('lang') == 0 %}
-        <p>- Reduce number of technical words used in your job advert.</p>
-        {% elif result.get('attributes') == 0 %}
-        <p>- Reduce number of technical words used in your job advert.</p>
+        {% endif %}
+        {% if result.get('workHr') == 0 %}
+        <p>- Mention the type of work hour such as flexible work hours, weekend hours etc.</p>
+        {% endif %}
+        {% if result.get('roster') == 0 %}
+        <p>- Mention type of the job such as roster, permanent or contract.</p>
+        {% endif %}
+        {% if result.get('encourage') == 0 %}
+        <p>- Encourage all applicants to apply regardless of gender.</p>
         {% endif %}
 
       </div>
