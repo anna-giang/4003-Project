@@ -1,0 +1,34 @@
+The person holding this position will work in the Integration & Maintenance
+Engineering team which is responsible for the testing and integration of new
+releases of software, hardware and services into the organisations network.
+The holder will primarily work in the Value Added Services Integration and
+Maintenance Area Group. The primary platforms the applicant is expected to
+work on include but not limited to Policy and TDF platforms.
+NB This work will involve late night and weekend work
+The following are the key skills and experience required for the role:
+Extensive experience in telecommunications. Both depth and breadth of
+technical experience is required. This should include extensive
+experience in a technical role in one or more of the following areas: 2,2.5
+and 3G Mobile Network Technologies, TDM voice, Voice over IP, SDH
+transmission, IP Networking, OSS (Network management), Intelligent
+Network elements, Voicemail systems, IVR Technologies,
+Detailed understanding of how policy works in a mobile environment and
+experience working on the Cisco platform would be a great advantage.
+Big data and analytics.
+Detailed understanding of the diameter protocol in relation to policy
+enforcement.
+Databases and in particular Postgress.
+Unix skills and in particular Redhat
+Understands and can diagnose customer complaints
+Participation in major fault resolution across multiple platforms
+Clearly communicate and present ideas and information to manager level
+Experience working on databases and policy.
+Desired experience, understanding or credentials in:
+Testing/Proof of Concept background with an understanding of testing
+methodology and identifying platform limits.
+Experience in internetworking design and implementation of what works
+rather than what is bought/sold
+Experience in a large scale network environment.
+Experience working with VMware and virtualisation.
+If you have the skills and experience mentioned above and believe you are
+the right candidate for the role then APPLY NOW on the link below!!
