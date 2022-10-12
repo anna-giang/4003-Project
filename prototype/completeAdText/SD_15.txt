@@ -1,0 +1,111 @@
+Principal Cloud Architect - Cloud
+
+Team
+
+At we support our people to grow, learn, develop their
+skills and reach their potential.
+
+With a global portfolio of operations, we offer a diverse and inclusive
+environment with extraordinary career opportunities. Our strategy is to
+focus on creating a safe work environment where our employees feel
+strongly connected to our values and objectives, and where the
+capability of our people is key to our success.
+
+To enable the acceleration of value delivery across the whole
+Technology function, we have established a Cloud Team who are
+designing, building, and maintaining our hybrid multi-cloud Cloud
+Platform. We will enable other teams to rapidly deliver digital solutions
+that improve the lives and work of our mining teams by providing a cloud
+platform that embodies the principles of Infrastructure as Code, CI/CD,
+and self-service.
+We work fast and solve tough problems, and pride ourselves on our
+culture of open collaboration, safety, diversity of thought and fun. We're
+looking for the best and brightest cloud architects, engineers, and
+product owners to execute against our cloud strategy.
+
+Come and be a part of this success.
+
+About the Role
+
+As a Master Cloud Architect you will be the technical authority on the
+ Cloud Platform. You own the architectural decisions for the team,
+and are the visionary force for the platform, in alignment with the cloud
+strategy and the overall vision of the Cloud Team. You will build close
+relationships with the Cloud Architects and engineers to ensure
+individual product technical decisions are aligned with the overall
+strategy. You will engage with external stakeholders to provide technical
+guidance and advice to speed adoption of the platform.
+
+The fun parts of this role include;
+
+Set ambitious and clear technical vision and communicate it
+effectively to stakeholders, other architects, and the rest of the Cloud
+Team to ensure a secure and scalable approach to leveraging cloud
+is realised.
+Works with Product Owners to align their roadmaps with the strengths
+and opportunities within the technical stack
+Drive deep architectural discussions to ensure complex solutions are
+successfully deployed in the cloud
+Work collaboratively with other architecture functions
+Responsible for evolving the  Cloud Platform to ensure services
+remain current, relevant and secure at all times
+Remain up to date on new services, and roadmaps, from the major
+cloud providers
+Enable customers of the Cloud Platform to develop applications and
+data-enabled use cases securely and quickly
+Ensure applications migrated to the cloud are supported in a
+sustainable manner and leverage cloud native architecture patterns
+where appropriate
+Drive automation and DevSecOps approaches throughout the
+platform to ensure security and self-service is promoted
+Lead internal cloud engineering squads on best practice cloud
+architecture patterns
+
+About you:
+You will be a trailblazer who enjoys delivering great products through
+complex problem solving. As a fantastic communicator you will be able
+to get the best of a team and able to engage with a range of
+multidisciplinary stakeholders.
+
+We are looking for those with the following
+
+STEM Bachelor's degree highly desirable
+Significant expertise architecting and implementing large scale
+production workloads in the public cloud
+Significant experience using infrastructure as code and designing
+end-to-end DevSecOps pipelines
+Significant experience with cloud security, compliance and
+governance
+Experience communicating the differences in networking and security
+of on-premise and cloud infrastructure
+Experience with blast radius and hub and spoke topologies
+Experience with serverless architectures
+Experience working with high traffic, high demand applications which
+require high availability
+Understanding of holistic enterprise architecture and interplay of
+analytical components with enterprise foundational components
+Expertise in at least one high-level programming language including
+e.g. Python, NodeJS or Java
+Capable as a mentor, collaborator, team player, and individual
+contributor
+Can make architecture decisions at a team and product level
+Strong communication skills with ability to align stakeholders on
+complex technical decisions
+Experience with coaching and mentoring technical team members
+Believes in a non-hierarchical culture of collaboration, transparency,
+safety, and trust
+Not afraid to "roll up the sleeves" and seeks to go outside comfort
+zone to learn – pushes teams to do the same
+Experimental mindset to drive innovation
+Experience leading with teams in an agile setting preferred
+
+At, we recognise that we are strengthened by diversity. We are
+committed to providing a work environment in which everyone is
+included, treated fairly and with respect. We are an Equal Opportunity
+employer and we encourage applications from women and Indigenous
+people.
+We know there are many aspects of our employees' lives that are
+important, and work is only one of these, so we offer benefits to enable
+your work to fit with your life. These benefits include flexible working
+options, a generous paid parental leave policy, other extended leave
+entitlements and parent rooms.

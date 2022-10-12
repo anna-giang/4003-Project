@@ -1,0 +1,25 @@
+As the Defence Principle Enterprise Solution Architect you will be
+owning the technical engagement and ultimate success around specific
+implementation projects, and developing a deep expertise in the AWS
+technologies as well as broad know-how around how applications and
+services are constructed using the AWS platform.
+Serve as a key technical member of the Business Development team
+in helping to ensure customer success in building applications and
+services on the AWS platform.
+Scope each customer engagement, with attention towards clear and
+well-defined objectives and success criteria.
+Own each technical engagement, and help ensure a timely and
+successful delivery of value. (delivery of actual solutions to be done
+by AWS partners)
+Required Skills
+The right person will be highly technical and analytical, possess 10 +
+years of current solution architecture (implementation/consulting)
+experience
+Experience architecting infrastructure solutions using both Linux/Unix
+and Windows with specific recommendations on server, load
+balancing, HA/DR, & storage architectures.
+Experience architecting or deploying Cloud/Virtualization solutions in
+enterprise customers. AWS specific experience a bonus.
+Experience working within the Enterprise software market or Internet
+industries is highly desired.
+Enterprise application and database architecture a bonus.

@@ -1,0 +1,54 @@
+About Us
+The ambition is bold, we want to be the world's best drinks retailer. We know that expectations of retail have never been higher so
+our transactions must be instant, and our services must be intuitive and personal. We are embarking on our next generation of growth, and we want
+you to be an influential part of it.
+Our family of leading brands is well respected and highly visible throughout Australia, New Zealand and the world; from Dan Murphy's, our market
+leading destination drinks merchant, to our local convenience offering at BWS, and our Cellarmaster wines and Langtons businesses with each of them
+commanding a leadership position in their respective category.
+The Role:
+As our Solution Architect you will provide technical leadership and domain professional expertise related to designing solutions, tools, processes and
+technological roadmaps for major cross-domain programs & systems, whilst ensuring alignment to technology and business strategies for Endeavour
+Drinks. Leading the development of complex system designs to ensure effective solutions are designed in accordance with business requirements,
+standards and technology strategy.
+Key Responsibilities will include:
+Applying Architecture development and governance processes for specific projects to promote effective quality and compliance within Architecture,
+Development of solutions for projects according to architecture guidelines and processes,
+Prove new concepts/tools by conducting or coordinating Proofs of Concept,
+Contribute to the development, maintenance and application of architecture policies, standards and guidelines,
+Facilitating high quality, timely IT estimates for solutions and roadmaps to ensure effective IT estimation of technology solutions,
+Ensuring attention to non functional deliverables such as adherence to security, data privacy concerns, performance capabilities, including
+scalability of solutions,
+Ensuring solutions leverage modern platforms, eg: cloud, tools, techniques and processes.
+Investigate and recommend improvement opportunities to drive continuous improvement and ensure remains innovative and up
+to date with market leading technologies and industry trends.
+Develop and grow relationships with key stakeholders including Heads of Business Unit and Technology General Managers to ensure appropriate
+stakeholders are effectively engaged in the formulation of Architecture direction,
+Provide technology advice and guidance to Business Unit Heads and Technology General Managers within a single domain to assist the business
+in the formulation of business strategy and technology investment decisions,
+Strong ability to convey technical information to non-technical business users and leaders.
+The Ideal Candidate will possess:
+Rich knowledge and experience with retail/e-commerce systems,
+Track record of designing complex and modern technology solutions based on business requirements that complement existing and future service,
+Solid knowledge and experience of best practice architecture standards, including TOGAF,
+Solid understanding of Agile principles and DevOps practices,
+Excellent knowledge of Azure cloud offerings, and some knowledge of other Cloud solutions,
+A .Net software development background,
+A "can do attitude" - takes ownership of the task, is accountable for the result and responsible along the way,
+Excellent written and verbal communication skills,
+Desire for learning and continuous improvement,
+Good knowledge of solution quotation and business case development.
+
+Joining Endeavour Drinks
+comprises a diverse range of drinks businesses including BWS, Dan Murphy's, ALH and Pinnacle Drinks. We are focused on
+growing and transforming our businesses to meet the changing needs of customers and we're driven by a culture that puts our customers and team
+first. Our ambition is to connect everyone with a drinks experience they'll love.
+As an inclusive, team-first company, our people are at the core of everything we do.
+We care deeply about creating a workplace where our team members feel valued, respected and empowered. We are committed to providing equal
+opportunity regardless of gender identity, ethnicity, disability or sexual orientation and we are proud to be recognised as a Gold Tier Employer in the
+Australian Workplace Equality Index for LGBTI inclusion.
+We value flexibility, and encourage our team members to work in ways that meet their work/life commitments and support their wellbeing.
+We work hard to create a safe and inclusive environment for all, and most importantly, we're all about creating better experiences – for our customers
+and for each other.
+We'd love to hear from You
+If you meet a number of the requirements, but not all, we encourage you to submit your application. You can follow us on LinkedIn or see more
+opportunities via

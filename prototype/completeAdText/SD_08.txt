@@ -1,0 +1,50 @@
+Electro Optic Systems (EOS) is an ASX listed Australian technology
+company operating in the defence and aerospace markets. Our
+products incorporate advanced electro-optic applications based on EOS
+core technologies in software, laser, electronics, optronics, gimbals,
+telescopes and beam directors, and precision mechanisms. With our
+headquarters in Canberra and a growing global workforce, we are
+experiencing exponential growth and are placed to become Australia's
+leading defence and aerospace exporter.
+The defence business develops and produces remotely controlled
+weapon systems and ancillary products. These systems are adaptable
+
+to suit potential customer weapon inventories and comprise state-of-the-
+art gimbal mounts, fire control systems and world-class sensor units.
+
+We continually strive to help our people achieve personal goals,
+engaging them in challenging and inspiring projects that shape our
+future.
+EOS is an equal opportunity employer and we offer flexible work
+arrangements, flexible hours, paid parental leave, employee incentive
+scheme and additional annual leave.
+
+About the role
+As a Senior Software Engineer you will take ownership of the design
+and development of software that integrates the data from an advanced
+suite of sensors into a responsive, reliable and safe control system.
+
+You will work with our Systems, Mechanical and Electronics Engineering
+teams to engineer highly regarded products.
+Skills
+Commercial experience with C, C++, or Java programming
+languages.
+Strong verbal and written communication skills.
+Able to solve challenging technical problems; and
+Attention to detail.
+Desirable Skills
+Experience with engineering processes such as CMMI, or SPICE or
+similar methodologies; and
+Embedded or real-time software development.
+Qualifications
+Degree in Software Engineering, Computer Science or related field.
+Post graduate qualifications in Engineering viewed favorably.
+Experience in a similar role.
+How to Apply
+If you are willing to take on a challenge and want to make a contribution
+to a proud Australian company that is growing rapidly then we would like
+to hear from you. Please apply now with your resume and a covering
+letter outlining your experience and why you believe you are the right fit
+for our organisation.
+We may review, short-list and/or conduct interviews for this role prior to
+the closing date. We encourage the submission of early applications.

@@ -1,0 +1,63 @@
+Junior IS&T Applications Specialist
+ are seeking a Junior IS&T Applications Specialist to support our
+Integrated Facilities Management Services (IFMS) portfolio located in
+the Perth support centre. This is a fixed-term position of 6 months
+duration and an ideal opportunity for someone who was recently
+completed their tertiary studies and completed 6 – 12 months in the
+industry to date.
+About the job
+Reporting to the IS&T Business Partner, you are the technical resource
+to support, maintain, develop and deploy Microsoft Dynamics 365
+solutions for our IFMS platform.
+You are primarily responsible for providing analysis and rectification of
+business-critical issues/outages/breakages with urgency and in a timely
+manner. You will also provide advice on potential functional and
+technical design improvements, while meeting business demand and
+quality requirements, in line with Microsoft product roadmaps.
+Working closely alongside our Senior IS&T Applications Specialist and a
+team of Microsoft-certified professionals, your responsibilities will also
+include:
+Performing systems integration testing and architectural reviews of
+changes or enhancements
+Within Microsoft D365 - researching, consulting, analysing and
+evaluating system needs
+Working with the Senior IS&T Applications Specialist to identify
+technology limitations and deficiencies in current systems, processes,
+and procedures
+About you
+To be successful in this role, you will ideally have recent experience with
+Microsoft CRM Development within varied project environments. You
+have tertiary qualifications in computer science or a related computer
+applications discipline, and experience working on Microsoft D365 or
+previous Microsoft CRM Online projects.
+You have a continuous improvement mindset and can problem solve
+and trouble-shoot while working with initiative and a commitment to
+delivering quality outcomes.
+Additional experience and knowledge requirements include:
+Microsoft D365 customer engagement (CE) design and development
+experience
+experience documenting Solution Architecture
+Microsoft D365 Customisation and Development (.NET/JavaScript)
+D365 Field Services (Resco platform)
+Developing and supporting CRM plugins, workflows and processes
+What's next
+This role will be offered on a fixed-term full time permanent basis.
+ offers a competitive salary package along with great employee
+benefits and recognition program.
+If this sounds like the right job for you, please apply with a current
+resume. Please note applications will close Friday, 17 July but
+shortlisting and interviews may commence prior.
+About 
+ provides a range of services at remote locations across
+Australia, servicing both on-shore and off-shore sites, in difficult and
+challenging environments. At , our Energy & Resources segment
+serves four markets: Mining, Offshore & Marine, Onshore Energy, and
+Engineering & Construction Projects. Our growing team of employees is
+dedicated to improving productivity, building meaningful client
+relationships, reducing on-site problems and improving quality of life for
+the thousands of Australians who call our remote sites home.
+
+ is an Equal Opportunity Employer and encourages cultural diversity, gender
+equality and nondiscrimination. To be eligible to apply for this role you must be legally
+permitted to work permanently in Australia. Please note that unsolicited applications from
+recruitment agencies will not be accepted.

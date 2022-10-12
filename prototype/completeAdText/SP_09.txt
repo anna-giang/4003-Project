@@ -1,0 +1,31 @@
+About the company
+is a global market leader in fuel analytics software and field technologies for retail fuel networks, and commercial and bulk fuel
+operations. We help customers to reduce environmental risk, minimise fuel losses, enhance fuel quality and increase profit margins.
+
+About the role
+We have a fantastic opportunity for an experienced .NET Software Developer to join our software development team on a fixed term basis, to
+deliver market leading software solutions used by clients globally.
+Working as part an Agile development team, you will be developing, enhancing and supporting our product set, working closely with our Australian
+and US based product owners to deliver solutions to our client’s problems.
+As an individual who is proud of delivering quality, effective outputs, continuous improvement will be front of mind in an ever-changing environment.
+Implementing or bolstering existing tools within the development life cycle will ensure we remain efficient and effective.
+Working with talented individuals you are a key team member delivering the technical excellence that has made  a global leader in our
+area.
+
+Key Responsibilities
+Working in an Agile team to deliver solutions for our clients, attending and participating in all scrum meetings and ceremonies
+Produce high quality code for building maintainable, scalable, reliable and secure solutions
+Requirement gathering, providing proposals for solution and design
+Proactively finding new ways to improve
+Documenting and tracking tasks through JIRA and Confluence
+System maintenance and support
+To be successful in the position you will have
+A tertiary degree in Computer Science or equivalent
+Minimum 3 years as .Net Developer in C#
+Web Service, WCF, Web API, SOAP, Restful, JSON, XML
+Experience in end to end technology solutions
+Strong written and oral communication skills
+Strong analytical, conceptual and problem solving abilities
+Ability to prioritize and execute tasks against agreed expectations
+Experience working in a team-orientated, collaborative environment
+Passion for delivering high quality work and continuous improvement

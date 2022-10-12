@@ -1,0 +1,95 @@
+Senior Test Engineer
+
+Senior Test Engineer 
+Ready for a challenge? Opportunity to be a part of one of the most
+exciting retail transformations in Australia.
+What we are looking for?
+ is looking for a Senior Test Engineer to join the squad in the
+The tribe primarily focuses on the various systems and
+platforms that make home delivery and collection of all orders from our
+website and mobile app possible.
+The Senior Test Engineer will work in a team of 3-5 engineers, a Product
+Manager, BA and QAs/test engineers to uplift the online platform that
+powers Australia's leading supermarket with significant growth plans.
+Key Responsibilities Include:
+Working collaboratively in cross-functional teams to develop a strong
+understanding of the systems and testing objectives
+Design, create, execute, analyze, manual and automated tests both
+for sprint as well as regression testing
+Support production deployment of applications and perform Smoke
+Screen testing
+Gather feedback and implement continuous test improvement
+Ability to create and define a test approach for any given context
+Skilled at analyzing a product for testing, using a number of different
+oracles
+Adept at writing robust test cases that stand the test of time
+Ability to write clear reproducible bug reports quickly and concisely
+and collaborate with developers to get them fixed
+Carry out exploratory testing within an Agile development
+environment
+Improve the quality of developer output via QA-Dev pair testing,
+providing feedback based on root cause analysis
+Maintain a high-quality bar in a complex and constantly evolving
+workspace.
+Mentor the other QA Team members and drive them to follow best
+Automation practices across Tribe
+Our Ideal Candidate:
+You're driven by a customer mission and passionate about being part of
+a tribe of great people. Whichever field you love - design, technology,
+engineering, you're active in the community that sits around it.
+You don't have to have worked in retail or with a big corporate, but you
+might have. Or you may have invested your talent in startups, digital
+SMEs or management consultancies. What you do need is to know how
+you could contribute to our teams. Be interested and interesting!
+We're looking for someone with a passion for modern technology and
+an interest in e-commerce.
+You will be a team player with excellent communication skills.
+You are comfortable with ambiguity and will thrive on analysing
+problems, formulating solutions, and making those a reality.
+You ‘get' agile and feel comfortable giving input on team processes.
+You're involved in the Testing community. You enjoy attending
+meetups, conferences, have a blog or a GitHub portfolio.
+What you will bring:
+Experience in engaging QA Team members and driving Test
+Automation and Performance Testing strategy.
+Ability to coach and mentor both junior and senior QAs.
+Proven experience reducing Regression Cycle time and an
+understanding of BDD.
+Experience with API Automation frameworks such as RestAssured,
+Postman etc
+Experience with Mobile Automation frameworks such as appium,
+XCUITEST
+Experience with Performance Testing tools like Jmeter, Taurus.
+Strong programming fundamentals.
+Strong understanding of micro-service, cloud computing services
+(Azure is preferred), transaction and documented datastores and
+scripting languages such as Bash or Powershell.
+
+Joining the Group
+
+As an inclusive, team-first company, our people are at the core of
+everything we do.
+
+We care deeply about creating a workplace where our team members
+feel valued, respected and empowered. We are committed to providing
+equal opportunity regardless of gender identity, ethnicity, disability,
+sexual orientation or life stage and we are proud to be recognised as a
+Gold Tier Employer in the Australian Workplace Equality Index for
+LGBTI inclusion.
+As our Group continues to evolve, innovate and support our
+communities, we encourage our team members to do the same with
+their own careers, by providing ongoing opportunities to grow and make
+a real difference.
+We value flexibility, and encourage our team members to work in ways
+that meet their work/life commitments and support their wellbeing.
+We work hard to create a safe and inclusive environment for all, and
+most importantly, we're all about creating better experiences – for our
+customers and for each other.
+We'd love to hear from You
+If you meet a number of the requirements, but not all, we encourage you
+to submit your application. You can learn more about working with us on
+LinkedIn
+Our Talent Acquisition Team and Hiring Leaders kindly request no
+unsolicited resumes or approaches from Recruitment Agencies.
+Group is not responsible for any fees related to unsolicited
+resumes.

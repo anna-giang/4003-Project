@@ -1,0 +1,99 @@
+Domain Architect (Digital Channels)
+At  we've built our bank's brand and customer experience online and
+have done so for over 20 years in Australia. We're not afraid to do
+things differently if it improves our customer experience. That's why
+we're looking for an Architect to drive our customer channels across the
+digital space focusing on web, mobile, app &API channels as well as our
+CRM & Call Centre. You'll need to be experienced in the architecture
+that comes with delivering Native, Hybrid Apps and Web. The Domain
+Architect will lead/partner with our Digital and Innovation Tribe who
+thrive on giving our customers a great online experience.
+As the Domain Architect within our Digital Channels you'll be leading
+and facilitating the project design activities to the level required to
+ensure the quality of the entire solution. This requires closely working
+with the Project Stakeholders – Domain Leads, Product Owners, IT and
+Delivery Teams in an agile environment.
+You'll define and propose the appropriate solution options based on the
+business needs, current state and target state. We'd love you to think
+differently about solutions and collaborate with us to deliver a great
+customer centric experience. You'll design and estimate in line with
+design principles set by the Enterprise Architect. You'll assist the
+
+Domain/Tribe & Enterprise Architects to deliver domain road maps, high-
+level designs and estimates and if necessary, you propose new
+
+principles to the Enterprise Architect.
+You'll have solid experience working in architecture teams delivering
+application and/or solution architectures.
+What are you going to do?
+Defining, proposing and evolving appropriate solution options and
+end-to-end solution architectures for solutions development across
+the business domains and across applications based on the business
+needs, current state and target state
+Collaborating with IT Operations, IT Security & Risk departments to
+ensure the delivery of sustainable solution design that meets the
+requirements
+Collaborating with Application/Platform Architects & Process
+Architects on the selection of appropriate design patterns – working
+as team/closely with all architects
+Taking the ownership of solution design and verifying post
+implementation
+Being proactive in developing, improving and promoting ‘Best
+Practices' and providing training to developers on best practice
+design techniques to ensure highly efficient, reusable, consistent,
+stable, secure and easily maintainable solutions.
+Presenting & providing knowledge transfer on solution architectures,
+road-maps and new technologies.
+Providing recommendations on - performance, stability and security
+consideration
+Researching and recommending changes to the solution
+architectures as technology evolves and that solutions are aligned
+with EA Strategy and IT Road-maps – leading the road-map
+development within a particular domain
+Documenting solution architecture strategies, best practices, design
+patterns, object modelling approaches and standards
+What are we looking for? Someone who has
+Demonstrated experience in delivering high traffic, front line mission
+critical enterprise solutions in an IT Architecture/Design role in a
+digital channels environment
+Sound understanding of architecture frameworks and Business /
+Capability Architecture practices
+Experience with mobile development, web technologies and design
+patterns (Responsive Web, Adaptive Web), Open Source
+Frameworks, Micro services and Event oriented design patterns
+Knowledge of Service Oriented Architecture patterns including SOAP
+and REST based implementation patterns
+Knowledge of non-functional aspects of IT Architecture (Performance,
+Resilience, Availability, Security etc.)
+Proven experience of partnering to deliver innovative customer
+solutions
+Experience within a banking environment is an advantage
+Demonstrated experience to design and implement software
+components in engagement with business stakeholders (non-IT) and
+ability to liaise with a broad range of people, including line
+management, senior management, external suppliers etc
+Outstanding communication (written / verbal) & presentation skills to
+be well developed and of a professional standard
+Ability to operate at own initiative with a pro-active attitude, within the
+directions and confines of management and Bank policy
+Problem solving ability and strong analytical skills
+About us
+At , we want to make life simpler and more worthwhile - for everyone
+who banks with us, for the people who work with us, and the community
+at large, too.
+When you come to work at , you're joining a team where individuality
+isn't just accepted, it's encouraged. We've built a culture that's fun,
+friendly and supportive - it's the kind of place where you can be yourself
+and make the most of whatever you have to offer.
+We give people the freedom to take risks, think differently, take
+ownership of their work, and make great things happen. We're here to
+help you get ahead and with our global network, there's plenty of scope
+to take your career in new directions, perhaps even ones you've never
+considered.
+People of all ages, sexual orientations, cultures and backgrounds are
+welcome to apply - likewise if you're living with a disability, or you have
+family or caring responsibilities.
+Sound like the kind of place you'd feel at home? We'd love to hear from
+you.
+(One last thing,  operates a direct talent sourcing model. So no
+agency introductions, please.)

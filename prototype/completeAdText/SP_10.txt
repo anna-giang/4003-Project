@@ -1,0 +1,25 @@
+C# Developer - Market Risk
+About the org
+A global quantitative trading firm where each individual brings their unique expertise every day to help make optimal decisions in the global financial
+markets. We are looking for an experienced C# developer who will be working on high profile systems that are responsible for developing software for
+the primary trading platform and used by their in-house traders. Develop a high-performance system in a rapid turnaround environment.
+What we're looking for
+A Bachelor’s Degree (or higher) in a technical or related discipline.
+Strong C# development skills with knowledge of: design, profiling, OO, multi-threading, user-interface development with experience on both the
+client & server side.
+Solid experience in C++ on Windows
+A demonstrated track record in risk, quantitative or trading systems development is preferred along with knowledge and experience of derivative
+instruments’ risks, pricing and greeks.
+Experience of real time applications would be advantageous.
+Excellent attention to detail, accuracy and a thorough understanding of the full software development life-cycle. Ideally with solid experience in an
+Agile environment.
+Strong interpersonal and communication skills for interacting with traders, quantitative analysts, and other software developers.
+Ability to meet deadlines and work well under pressure in a fast-paced team environment.
+Who you are
+Able to execute on ideas quickly
+Committed to innovation
+Work across the entire technical stack with an eye for optimization, scalability, stability while minimizing risk
+Passionate about technology and exploring new technologies to find the optimal solution
+Skilled in object oriented software design
+Make yourself a major part of this successful organisation by hitting that apply now button!!
+If you would like to have a more in-depth discussion, feel free to call

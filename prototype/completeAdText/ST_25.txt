@@ -1,0 +1,23 @@
+Test Analyst - SMS Program
+BUILD your skills, create success and become inspired.
+TAFE NSW has over 500,000 annual enrolments and sets the
+benchmark for quality education in Australia. Join our innovative,
+dynamic organisation while we embark on a once in a generation
+evolution to modernise, upskill and digitally transform into a world-class
+education provider.
+
+We’re committed to building a culture of highly engaged and talented
+people, all working together in a collaborative and high-performance
+culture which facilitates career mobility and diversity. Our employees are
+valued and provided development opportunities to ensure organisational
+success and personal growth
+
+The Opportunity
+As a Test Analyst at TAFE NSW, you will be responsible for ensuring that
+testing engagements are successfully carried out, preparing test plans
+and a test phase, test cases for a given test phase based on the Test
+Objective Matrices, executing and running test cases and other required
+tests as directed, raising defects during test execution and following
+them through to closure. This role is based within a team of SME,
+Technical and Business Analysts and business resources to delivery
+testing outcomes.
