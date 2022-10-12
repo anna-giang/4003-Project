@@ -1,0 +1,50 @@
+The role:
+This is a national project within our IBC business which includes the
+design, acquisition, equipment and material supply and procurement,
+build and activation of a number of upgrade and greenfield sites.
+The main priority for this role will be the rollout of systems to provide in
+building coverage for 3G, 4G and 5G technologies at sites, including but
+not limited to Distributed Antenna Systems (DAS) using Passive or
+Active DAS vendor equipment, or achieving coverage using off-air
+repeaters, small cells and enterprise grade Pico cells.
+More specifically, you'll be involved in:
+Supporting the engineering team in DAS design solution including
+conducting SOW site surveys and RF measurements.
+Active DAS equipment commissioning, levelling, and optimising
+New infrastructure integration and acceptance, site surveys and
+arranging coverage verification testing in accordance to procedures
+Site investigations and testing including co- locations and DAS
+augmentation, PIM and fault investigation, maintenance and
+correction works.
+Supporting and performing specialised technical functions in relation
+to specialised coverage solutions such as PIM testing, walk testing
+(coverage surveys), test equipment operation and maintenance
+What we are looking for
+Experience in the design of DAS (Distributed Antenna Systems) using
+IBwave to design Active and Passive solutions - desirable
+A demonstrated interest and prior learning across one of the following
+–Telecommunications Engineering, Radio Communications and/or
+Electrical Engineering
+Previous experience using network/spectrum analyser – such as
+Anritsu BTS Master, Anritsu Site Master, Rohde and Schwarz FSH4
+for RF measurements
+Previous experience in walk testing (coverage surveys) using TEMS,
+NEMO, etc.
+Demonstrated passion for radio communications
+Ability and willingness to carry out practical site activities such as walk
+testing, install and commissioning works
+Willingness to travel interstate and work outside of office hours (if
+required)
+Well-honed computer application skills with MS Office
+Why join us
+We have an ongoing pipeline of IBC projects across multiple carriers,
+vendor, government and 3rd party customers
+You'll have the opportunity to work with and learn from some truly
+respected IBC industry veterans
+Kordia has excellent opportunities for internal career growth
+Here at Kordia we believe every team member has a role to play in the
+overall success of the business, whether it is through our working
+relationships, technology or skills. If our vision of becoming the leading
+Australasian provider of mission-critical technology appeals to you, we
+can offer you a workplace with a positive and empowering culture in
+which you are sure to thrive.
