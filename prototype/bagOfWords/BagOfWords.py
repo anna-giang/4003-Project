@@ -12,22 +12,27 @@ from nltk.corpus import stopwords
 
 class BagOfWords:
     def __init__(
-        self, recommendation: string, trainingLabelsPath: string, testLabelsPath=None
+        self, recommendation: string,
+        trainingLabelsPath: string, testLabelsPath=None,
+        trainingDataPath=None, testDataPath=None
     ):
-
         self.currentPath = os.getcwd()
         self.recommendation = recommendation
         self.trainingLabelsPath = trainingLabelsPath
         self.testLabelsPath = testLabelsPath
+        self.trainingDataPath = "\\prototype\\" + self.recommendation + "\\" + \
+            "training" if trainingDataPath is None else trainingDataPath
+        self.testDataPath = "\\prototype\\" + self.recommendation + "\\" + \
+            "test" if testDataPath is None else testDataPath
         self.vocabulary = None
         self.model = None
         self.train()
 
     def train(self) -> None:
-        trainingDataDirectory = self.recommendation + "\\" + "training"
         pathToTrainingLabelsCsv = self.currentPath + self.trainingLabelsPath
 
-        data = self.__prepareData(trainingDataDirectory, pathToTrainingLabelsCsv)
+        data = self.__prepareData(
+            self.trainingDataPath, pathToTrainingLabelsCsv)
         vectorizer = CountVectorizer(ngram_range=(2, 2))
         fittedText = vectorizer.fit_transform(data["text"])
         textFeatures = fittedText.toarray()
@@ -63,9 +68,8 @@ class BagOfWords:
             print("Please set path to test labels.")
             return
 
-        testDataDirectory = self.recommendation + "\\" + "test"
         pathToTestLabelsCsv = self.currentPath + self.testLabelsPath
-        testData = self.__prepareData(testDataDirectory, pathToTestLabelsCsv)
+        testData = self.__prepareData(self.testDataPath, pathToTestLabelsCsv)
 
         testTextFeatures = self.__vectorizeSample(testData)
         testLabels = np.array(testData[self.recommendation])
@@ -78,7 +82,8 @@ class BagOfWords:
         )
 
     def __vectorizeSample(self, data: pd.DataFrame) -> np.ndarray:
-        vectorizer = CountVectorizer(ngram_range=(2, 2), vocabulary=self.vocabulary)
+        vectorizer = CountVectorizer(
+            ngram_range=(2, 2), vocabulary=self.vocabulary)
         fittedText = vectorizer.fit_transform(data["text"])
         textFeatures = fittedText.toarray()
         return textFeatures
@@ -115,7 +120,8 @@ class Util:
     def loadTextFromFile(directory, filenames, docs):
         trainingDirectory = Util.currentPath + "\\" + directory
         for filename in os.listdir(trainingDirectory):
-            filenames.append(filename[:-4])  # Removes the .txt from the filename
+            # Removes the .txt from the filename
+            filenames.append(filename[:-4])
             with open(trainingDirectory + "\\" + filename, "r") as file:
                 text = file.read()
             docs.append(text)

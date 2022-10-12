@@ -12,32 +12,37 @@ from gensim.scripts.glove2word2vec import glove2word2vec
 from gensim.models import KeyedVectors
 
 
-
 class WordEmbeddings:
     def __init__(
-        self, recommendation: string, trainingLabelsPath: string, testLabelsPath=None
+        self, recommendation: string,
+        trainingLabelsPath: string, testLabelsPath=None,
+        trainingDataPath=None, testDataPath=None
     ):
 
         self.currentPath = os.getcwd()
         self.recommendation = recommendation
         self.trainingLabelsPath = trainingLabelsPath
         self.testLabelsPath = testLabelsPath
+        self.trainingDataPath = "prototype/" + self.recommendation + "/" + \
+            "training" if trainingDataPath is None else trainingDataPath
+        self.testDataPath = "prototype/" + self.recommendation + "/" + \
+            "test" if testDataPath is None else testDataPath
         self.vocabulary = None
         self.model = None
         self.pretrainedModel = None
         self.train()
 
     def train(self) -> None:
-        trainingDataDirectory = "prototype/" + self.recommendation + "/" + "training"
         pathToTrainingLabelsCsv = self.currentPath + self.trainingLabelsPath
 
-        data = self.__prepareData(trainingDataDirectory, pathToTrainingLabelsCsv)
+        data = self.__prepareData(
+            self.trainingDataPath, pathToTrainingLabelsCsv)
         self.__loadPretrainedModel()
-        print("hehe vect size",self.pretrainedModel.vector_size)
+        print("hehe vect size", self.pretrainedModel.vector_size)
         vectorizer = Word2VecVectorizer(self.pretrainedModel)
 
         fittedText = vectorizer.fit_transform(data["text"])
-        textFeatures = fittedText #remove .to_array()
+        textFeatures = fittedText  # remove .to_array()
 
         # self.vocabulary = vectorizer.vocabulary_
 
@@ -70,9 +75,8 @@ class WordEmbeddings:
             print("Please set path to test labels.")
             return
 
-        testDataDirectory = "prototype/" + self.recommendation + "/test"
         pathToTestLabelsCsv = self.currentPath + self.testLabelsPath
-        testData = self.__prepareData(testDataDirectory, pathToTestLabelsCsv)
+        testData = self.__prepareData(self.testDataPath, pathToTestLabelsCsv)
 
         testTextFeatures = self.__vectorizeSample(testData)
         testLabels = np.array(testData[self.recommendation])
@@ -87,7 +91,7 @@ class WordEmbeddings:
     def __vectorizeSample(self, data: pd.DataFrame) -> np.ndarray:
         vectorizer = Word2VecVectorizer(self.pretrainedModel)
         fittedText = vectorizer.fit_transform(data["text"])
-        textFeatures = fittedText #remove .toarray()
+        textFeatures = fittedText  # remove .toarray()
         return textFeatures
 
     def __prepareData(self, dataDirectory, pathTolabelsCsv) -> pd.DataFrame:
@@ -115,13 +119,15 @@ class WordEmbeddings:
         return dataFrame
 
     def __loadPretrainedModel(self,) -> None:
-        print("HER",self.currentPath)
-        glove_path = self.currentPath + '/prototype/glove.twitter.27B.100d.txt' # change to an argument
+        print("HER", self.currentPath)
+        glove_path = self.currentPath + "/prototype" + \
+            '/glove.twitter.27B.100d.txt'  # change to an argument
         word2vec_output_file = 'MY_MODEL'+'.word2vec'
 
         glove2word2vec(glove_path, word2vec_output_file)
 
-        self.pretrainedModel = KeyedVectors.load_word2vec_format(word2vec_output_file, binary=False)
+        self.pretrainedModel = KeyedVectors.load_word2vec_format(
+            word2vec_output_file, binary=False)
 
         print(self.pretrainedModel.most_similar('diversity'))
 
@@ -133,7 +139,8 @@ class Util:
     def loadTextFromFile(directory, filenames, docs):
         trainingDirectory = Util.currentPath + "/" + directory
         for filename in os.listdir(trainingDirectory):
-            filenames.append(filename[:-4])  # Removes the .txt from the filename
+            # Removes the .txt from the filename
+            filenames.append(filename[:-4])
             with open(trainingDirectory + "/" + filename, "r") as file:
                 text = file.read()
             docs.append(text)
@@ -162,6 +169,7 @@ class Util:
                 new.append(word)
 
         return " ".join(new)
+
 
 class Word2VecVectorizer:
     def __init__(self, pretrainedModel):
@@ -199,9 +207,9 @@ class Word2VecVectorizer:
         else:
             emptycount += 1
         n += 1
-        print("Numer of samples with no words found: %s / %s" % (emptycount, len(data)))
+        print("Number of samples with no words found: %s / %s" %
+              (emptycount, len(data)))
         return X
-
 
     def fit_transform(self, data):
         self.fit(data)
