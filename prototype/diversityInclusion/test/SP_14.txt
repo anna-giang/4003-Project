@@ -1,0 +1,47 @@
+is fast becoming one of the worlds leading product development houses. We help clients from all around the globe
+utilize and incorporate cutting edge technology in their designs and user experiences. With projects spanning consumer products, Big Data, IoT,
+and automation in the resources sectors, there is no shortage of interesting challenges at.
+Some of Our Projects
+We are seeking Front End Developers to join our team and help out on some exciting projects.
+One such project is the Front-End development of a bicycle electronics app and web app that has a growing user base approaching 100,000+ users,
+and the ongoing roll out of features for it. This is using a combination of ReactJS and native iOS and Android for web and app development, a range of
+Python and Javascript backend services, along with Amazon AWS traditional and serverless infrastructure.
+Another fast growing project is the creation of a Financial and Economic Charting app being developed with a well funded client looking to hit the app
+store later this year. Targeting tens of thousands of users, it utilizes ReactJS and Capacitor for cross platform app development as well as a mix of
+Python and Javascript backend technologies. This system leverages some of our preexisting tech whilst developing specific modules for the client, to
+get them to market faster.
+Another project is the development of our Big Data web stack utilized by a number of our clients for capturing IoT data, then visualising and interpreting
+that data to make business decisions with. This system crosses over between Data Science, Database optimisation, Web API development, user
+management and Front-End development. The system powers a number of our client and internal projects.
+On every project we run comprehensive CI testing on GitLab using Dockerized testing environments. We utilise AWS for production services and our
+in-house server farm for development and staging.
+The Role
+We are seeking Junior and Mid-level developers who want to join our Software Engineering Team.
+We require developers who want to specialize in
+Front End Development using React.js
+The Front End Development role will allow you to apply your skills, and learn new skills, across the many projects we are working on.
+We are seeking developers who:
+Are ambitious and driven
+Are up for the many challenges thrown at you
+Can see a project holistically, and use object orientated structures to create maintainable, extensible and performant code
+Have a desire to grow with the company and bring your own unique flare to the products development team
+Actively keep up to date with emerging technologies and enjoy prototyping and implementing them in real world products
+Pre-requisites you should bring
+Although we are willing to teach ambitious candidates with aptitude all the skills necessary to grow professionally with us as a Front End Developer, we
+would love to see the following skills to kick us off:
+Tertiary Education in Software Development, preferably, Bachelors Degree in Computer Science, Software Engineering, Diploma or equivalent
+certificates
+Proficient in Front End Development using Javascript frameworks, preferably ReactJS
+Experience with GIT workflows
+Proficiency in Object Orientated Programming
+The ability to show us what you have to offer by demoing some code you have written within the interview will be highly advantageous.
+What's in it for you
+This position gives you the opportunity to grow with our business and gives you the skill to become a leader in your field.
+You will be mentored by the senior software engineers and be heavily supported by the UX and management teams to ensure you come up to speed
+quickly and can start contributing to our exciting projects.
+How do you apply?
+Please apply here through and send through your Cover Letter and Resume.
+Have something ready to demo for us, even if it's a small personal project, that shows you can write object-oriented code.
+Please note, only applicants with Australian Working Rights will be considered. Only Shortlisted candidates will be contacted. Applications only
+accepted directly through. Applications will not be accepted through recruitment agencies.
+Thank you for considering as the next team you may grow with.

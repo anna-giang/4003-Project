@@ -1,0 +1,82 @@
+Test Analyst
+The Role:
+As a Test Analyst, you will be responsible for ensuring application
+changes meet both business specication and customer journey
+requirements and ensuring the best testing practices are applied to
+all testing activities. You will be working closely with Subject Matter
+Expert’s (SME) to understand business expectations and constraints
+and providing regular updates on progress of testing. If you are
+systems savvy, this is a great opportunity to start your career within
+the Product Hub team.
+Key responsibilities:
+Participate proactively in daily stand-up meetings, story
+grooming sessions, team retrospectives, suggesting and
+implementing product improvements;
+Work with Product Owners to dene Acceptance Criteria and the
+Denition of Done;
+Create and execute test cases;
+Collaborate with Development Managers and Product Owners on
+sprint planning and provide metrics on testing progress;
+Ensuring the appropriate testing tasks are scheduled and
+executed during software release;
+Actively collaborate with developers and business stakeholders
+to clarify requirements, especially in terms of testability,
+consistency, and completeness;
+Develop in-depth knowledge of business rules, multiple systems
+and their respective functionality; and
+Manage Post Implementation Reviews and monitoring of systems
+to determine the success of the change.
+Knowledge and experience:
+Agile Testing Methodologies (Unit, Integration, Systems,
+Acceptance, Usability) & documentation (test designs, test cases
+and test execute);
+Ability to resolve issues as they arise during the various stages of
+testing;
+Demonstrated ability to multitask in a fast-paced/ dynamic
+environment;
+Experienced JIRA and Conuence user (defect reporting and
+management tools);
+Automated testing exposure and/or understanding; preferably
+Selenium Java Web Driver, Cucumber & headless browsers
+would be an advantage;
+Demonstrated analytical, reasoning and problem-solving skills;
+Demonstrated excellent time-management skills;
+High level of IT literacy and demonstrated ability to learn new
+systems;
+Working knowledge of common application software, e.g. MS
+Oce suite;
+Testing qualication (e.g. ISTQB) (preferred, not essential); and
+Tertiary qualications in IT or business-related discipline is
+advantageous.
+Who are Auto & General:
+Auto & General is the Australian arm of a private global group with
+8,000 employees across 31 oces and over 8.9 million customers
+worldwide.
+In Australia, Auto & General launched in 2000 and has grown to
+provide industry-leading motor, home and travel insurance
+products both directly through Budget Direct and via industry
+leading partnerships. With an Australian team of 1400+ we are now
+looking for talented individuals who can help drive our ambitious
+growth plans.
+Our Benets:
+Toowong - City fringe location – drive and park onsite for free;
+Enjoy additional leave days - ‘ME’ leave and ‘Volunteer Day’ leave;
+Join our vibrant social and community activities including annual
+celebration, family fun days and regular events across each of
+our sites;
+Study support (up to 50% of tuition fees for relevant courses) and
+professional membership reimbursement;
+Employee discounts on Car, Home, Travel insurance;
+Income protection insurance provided to support you in the event
+of non-work related illness or injury;
+Discounts with a broad range of providers, including gym
+memberships, accommodation, dental care and more.
+If you are seeking a new challenge and would enjoy the opportunity
+to work in a growing and changing business, click on the APPLY
+NOW button and submit your application.
+Auto & General welcome and value diversity in the workplace
+*A note from Auto & General to recruitment agencies: We politely
+ask that you avoid making any approaches or sending any
+unsolicited resumes to our Recruitment Team or Hiring Leaders
+across our business. Auto & General is not responsible for any fees
+related to unsolicited resumes.

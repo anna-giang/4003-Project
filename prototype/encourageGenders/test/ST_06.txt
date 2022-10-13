@@ -1,0 +1,40 @@
+Full Time
+Information & Communication Technology, Testing & Quality Assurance
+
+About Us:
+Infosys is a global leader in next-generation digital services and consulting. We enable clients in 46 countries to navigate their digital transformation.
+With over three decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital
+journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with
+agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous
+improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem.
+Visit www.infosys.com to see how Infosys (NYSE: INFY) can help your enterprise navigate your next.
+Short Description:
+Resource with Java or Automation experience will be part of validation and Quality assurance team
+Roles and Responsibilities:
+To conduct requirement analysis, define test strategy & design and lead execution to guarantee superior outcomes.
+To design an optimal test environment to simulate real-time scenarios.
+To collaborate with some of the best talent in the industry to create innovative high quality and defect-free solutions to meet our clients’ business
+needs.
+
+Skills/Competencies:
+Essential:
+Good knowledge of technology landscape
+Tertiary Qualification in IT / Computer Science / related discipline.
+Preferred:
+1+ years of experience with IT. Experience with Test automation tools like Selenium and/or Tosca
+Good experience of Java programming for automation
+Continuous Integration skills and knowledge of Jenkins, Github and/or Artifactory, confluence, JIRA
+PEGA and Devops experience will be preferable
+Additional Skills:
+Excellent customer interfacing skills.
+Excellent written and verbal communication skills.
+Strong attention to detail and outstanding analytical and Problem-solving skills.
+
+Infosys is an equal opportunity employer and encourages applications from: Minority/Female/Veteran/People with Disability/Sexual Orientation/Gender
+Identity/National Origin
+At Infosys, we recognize that everyone has individual requirements. If you are a person with disability, illness or injury and require adjustments to the
+recruitment and selection process, please contact our Recruitment team for adjustment only on Infosys_ta@infosys.com or include your preferred
+method of communication in email and someone will be in touch.
+Please note in order to protect the interest of all parties involved in the recruitment process, Infosys does not accept any unsolicited resumes from third
+party vendors. In the absence of a signed agreement any submission will be deemed as non-binding and Infosys explicitly reserves the right to pursue
+and hire the submitted profile. All recruitment activity must be coordinated through the Talent Acquisition department.
