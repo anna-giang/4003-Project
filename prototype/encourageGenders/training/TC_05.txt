@@ -1,24 +1,24 @@
 NBN is a wholesale provider of broadband access through its level two
-networks, predominantly to retail service providers (RSPs). These RSP’s on
+networks, predominantly to retail service providers (RSPs). These RSP's on
 sell internet access to both residential and business customers. Ericsson
-are contracted to provide NBN a full “Managed Service” for the Fixed
+are contracted to provide NBN a full "Managed Service" for the Fixed
 Wireless and Satellite Technologies.
 These technologies deliver broadband service to Rural and Remote areas
 across Australia currently servicing approximately 280K customers with the
 footprint expanding daily. The Ericsson Support Center team provides the
 on the day operational support service for End User Activation and
 Assurance of these customers.
-As a Technical Support Operator, you will work with Ericsson’s partners in
+As a Technical Support Operator, you will work with Ericsson's partners in
 meeting Customer expectations in relation to delivery of service. You will be
 involved in activities ranging from Data Entry to Call Handling to Problem
 Resolution for both activations and assurance service functions.
 As a Technical Support Operator, you will be assigned to different service
-tasks that deliver the ‘Daily Activation and Assurance Services’. You will be
+tasks that deliver the 'Daily Activation and Assurance Services'. You will be
 part of a cross functional team providing services to both our customer NBN
 and to our 3rd party delivery partners. The team is a unique operational
 model consisting of a combination of services that would normally be seen in
 either a call center or a support Centre. Ericsson Support Centre is an
-integral component of our customers’ success, we believe our customers’
+integral component of our customers' success, we believe our customers'
 success creates our success.
 Key Duties and Responsibilities include:
 Familiarity with CRM systems & practices
@@ -28,7 +28,7 @@ events
 2nd Level phone support to Field Technicians
 Escalate and Co-ordinate Installation visits with Delivery Partners
 Ensure your assigned daily tasks are completed within allocated
-timeframes to ensure KPI’s & SLAs are met
+timeframes to ensure KPI's & SLAs are met
 Data loading (provisioning) of customer orders into Ericsson Systems
 Manage customer faults on Trouble Tickets through to resolution
 Available to work on a roster basis Monday to Friday between 7:30 to 9pm
@@ -37,7 +37,7 @@ Proactively Monitor and Manage Installation, Servicing Mailboxes
 Follow documented work instructions to maintain accuracy & also provide
 process improvement suggestions
 Engagement with operational stakeholders from both nbn and our 3rd
-party DP’s
+party DP's
 Display excellent operational service skills (including questioning, probing,
 listening, establishing rapport)
 Be a team member who is passionate about being the best you can be

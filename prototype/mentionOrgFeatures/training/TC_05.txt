@@ -1,7 +1,7 @@
 NBN is a wholesale provider of broadband access through its level two
-networks, predominantly to retail service providers (RSPs). These RSP’s on
+networks, predominantly to retail service providers (RSPs). These RSP's on
 sell internet access to both residential and business customers. Ericsson
-are contracted to provide NBN a full “Managed Service” for the Fixed
+are contracted to provide NBN a full "Managed Service" for the Fixed
 Wireless and Satellite Technologies.
 These technologies deliver broadband service to Rural and Remote areas
 across Australia currently servicing approximately 280K customers with the
