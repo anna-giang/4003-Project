@@ -20,9 +20,9 @@ class BagOfWords:
         self.recommendation = recommendation
         self.trainingLabelsPath = trainingLabelsPath
         self.testLabelsPath = testLabelsPath
-        self.trainingDataPath = "\\prototype\\" + self.recommendation + "\\" + \
+        self.trainingDataPath = "/prototype/" + self.recommendation + "/" + \
             "training" if trainingDataPath is None else trainingDataPath
-        self.testDataPath = "\\prototype\\" + self.recommendation + "\\" + \
+        self.testDataPath = "/prototype/" + self.recommendation + "/" + \
             "test" if testDataPath is None else testDataPath
         self.vocabulary = None
         self.model = None
@@ -118,11 +118,11 @@ class Util:
 
     @staticmethod
     def loadTextFromFile(directory, filenames, docs):
-        trainingDirectory = Util.currentPath + "\\" + directory
+        trainingDirectory = Util.currentPath + "/" + directory
         for filename in os.listdir(trainingDirectory):
             # Removes the .txt from the filename
             filenames.append(filename[:-4])
-            with open(trainingDirectory + "\\" + filename, "r") as file:
+            with open(trainingDirectory + "/" + filename, "r") as file:
                 text = file.read()
             docs.append(text)
 

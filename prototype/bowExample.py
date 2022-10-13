@@ -8,20 +8,20 @@ from bagOfWords.BagOfWords import BagOfWords
 # Initialise a model trained using split advertisement text for each of the recommendations
 diversityInclusion = BagOfWords(
     recommendation="diversityInclusion",
-    trainingLabelsPath="\\prototype\\labels\\diversityInclusion.csv",
-    testLabelsPath="\\prototype\\labels\\diversityInclusionTest.csv",
+    trainingLabelsPath="/prototype/labels/diversityInclusion.csv",
+    testLabelsPath="/prototype/labels/diversityInclusionTest.csv",
 )
 
 encourageGenders = BagOfWords(
     recommendation="encourageGenders",
-    trainingLabelsPath="\\prototype\\labels\\encourageGenders.csv",
-    testLabelsPath="\\prototype\\labels\\encourageGendersTest.csv",
+    trainingLabelsPath="/prototype/labels/encourageGenders.csv",
+    testLabelsPath="/prototype/labels/encourageGendersTest.csv",
 )
 
 mentionOrgFeatures = BagOfWords(
     recommendation="mentionOrgFeatures",
-    trainingLabelsPath="\\prototype\\labels\\mentionOrgFeatures.csv",
-    testLabelsPath="\\prototype\\labels\\mentionOrgFeaturesTest.csv",
+    trainingLabelsPath="/prototype/labels/mentionOrgFeatures.csv",
+    testLabelsPath="/prototype/labels/mentionOrgFeaturesTest.csv",
 )
 
 # The text from the job ad you want to analyse
